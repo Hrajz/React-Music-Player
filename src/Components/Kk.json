@@ -1,0 +1,110 @@
+{
+    "song76":
+        {
+            "isActive": false,
+            "id": 76,
+            "url": "/music/Kk/Aafreen (1920 London)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (59).jpeg",
+            "name": "Aafreen",
+            "artistName": "KK - (1920 London)"
+        },
+    "song77":
+        {
+            "isActive": false,
+            "id": 78,
+            "url": "/music/Kk/Aankhon Mein Teri (Om Shanti Om)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (60).jpeg",
+            "name": "Aankhon Mein Teri",
+            "artistName": "Kk (Om Shanti Om)"
+        },
+    "song79":
+        {
+            "isActive": false,
+            "id": 79,
+            "url": "/music/Kk/Dil Ibadat(PaglaSongs).mp3",
+            "imageUrl": "image/images (61).jpeg",
+            "name": "Dil Ibadat",
+            "artistName": "Kk - Imran Hasmi"
+        },
+    "song80":
+        {
+            "isActive": false,
+            "id": 80,
+            "url": "/music/Kk/Haan Tu Hain KK(PaglaSongs).mp3",
+            "imageUrl": "image/images (62).jpeg",
+            "name": "Haan Tu Hain",
+            "artistName": "Kk"
+        },
+    "song81":
+        {
+            "isActive": false,
+            "id": 81,
+            "url": "/music/Kk/Khuda Jaane - K.K_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/maxresdefault.jpg",
+            "name": "Khuda Jaane",
+            "artistName": "Kk"
+        },
+    "song82":
+        {
+            "isActive": false,
+            "id": 82,
+            "url": "/music/Kk/Labon Ko  Labon Pe Sajao(PaglaSongs).mp3",
+            "imageUrl": "image/Bhool-Bhulaiyaa-Hindi-2007-20221122005742-500x500.jpg",
+            "name": "Labon Ko  Labon Pe Sajao",
+            "artistName": "Kk"
+        },
+    "song83":
+        {
+            "isActive": false,
+            "id": 83,
+            "url": "/music/Kk/Main Agar - Film Version (Tubelight)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (63).jpeg",
+            "name": "Main Agar",
+            "artistName": "Tubelight"
+        },
+    "song84":
+        {
+            "isActive": false,
+            "id": 84,
+            "url": "/music/Kk/Piya Aaye Na (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/Aashiqui-2-Hindi-2013-500x500.jpg",
+            "name": "Piya Aaye Na",
+            "artistName": "Aashiqui 2"
+        },
+    "song85":
+        {
+            "isActive": false,
+            "id": 85,
+            "url": "/music/Kk/Teri Yaadon Mein (The Killer) - K.K_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (65).jpeg",
+            "name": "Teri Yaadon Mein",
+            "artistName": "The Killer"
+        },
+    "song86":
+        {
+            "isActive": false,
+            "id": 86,
+            "url": "/music/Kk/Tu Hi Meri Shab Hai(PaglaSongs).mp3",
+            "imageUrl": "image/images (66).jpeg",
+            "name": "Tu Hi Meri Shab Hai",
+            "artistName": "kk"
+        },
+    "song87":
+        {
+            "isActive": false,
+            "id": 87,
+            "url": "/music/Kk/Tujhe Sochta Hoon(PaglaSongs).mp3",
+            "imageUrl": "image/images (67).jpeg",
+            "name": "Tujhe Sochta Hoon",
+            "artistName": "Kk - Imran Hasmi"
+        },
+    "song88":
+        {
+            "isActive": false,
+            "id": 88,
+            "url": "/music/Kk/Zara Sa(PaglaSongs).mp3",
+            "imageUrl": "image/images (62).jpeg",
+            "name": "Zara Sa",
+            "artistName": "Kk - Imran Hasmi"
+        }
+}

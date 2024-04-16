@@ -1,0 +1,110 @@
+{
+    "song57":
+        {
+            "isActive": false,
+            "id": 57,
+            "url": "/music/Classic/3 - Why This Kolaveri Di Video _ Dhanush, Shruti Haasan _ Anirudh Ravichandran_5DK-ZWyxZ8k.mp3",
+            "imageUrl": "image/Whu_this_kolaveri_di.jpeg",
+            "name": " Why This Kolaveri Di",
+            "artistName": "Dhanush, Shruti Haasan"
+        },
+    "song58":
+        {
+            "isActive": false,
+            "id": 58,
+            "url": "/music/Classic/Aankhein Khuli Song _ Mohabbatein _ Shah Rukh Khan, Aishwarya Rai _ Lata Mangeshkar, Udit Narayan_eM8Mjuq4MwQ.mp3",
+            "imageUrl": "image/images (41).jpeg",
+            "name": "Aankhein Khuli ho ya ho band",
+            "artistName": "Mohabbatein"
+        },
+    "song59":
+        {
+            "isActive": false,
+            "id": 59,
+            "url": "/music/Classic/मेरे सपनो की रानी Lyrical Song - आराधना - राजेश खन्ना - शर्मिला टैगोर - किशोर कुमार - Mere Sapno Ki..._Ww0vKUcHgSs.mp3",
+            "imageUrl": "image/mere sapno.jpg",
+            "name": "mere sapno ki rani",
+            "artistName": "Kishor Kumar"
+        },
+    "song60":
+        {
+            "isActive": false,
+            "id": 60,
+            "url": "/music/Classic/मेरा जूता है जापानी Mera Joota Hai Japani - HD वीडियो सोंग - मुकेश - राज कपूर__nkYqRqezn8.mp3",
+            "imageUrl": "image/images (42).jpeg",
+            "name": "mera joota hai japani",
+            "artistName": "Mukesh - Raj Kapoor"
+        },
+    "song61":
+        {
+            "isActive": false,
+            "id": 61,
+            "url": "/music/Classic/Dum Dum Diga Diga डम डम डिगा डिगा _ Mukesh _ Raj Kapoor, Nutan, Pran _ Chhalia 1960 _ Bollywood Song_vzfYPcw76Gc.mp3",
+            "imageUrl": "image/images (43).jpeg",
+            "name": "Dum Dum Diga Diga",
+            "artistName": "Mukesh _ Raj Kapoor, Nutan, Pran"
+        },
+    "song62":
+        {
+            "isActive": false,
+            "id": 62,
+            "url": "/music/Classic/Ek Chatur Naar Badi Hoshiyaar - Kishore Kumar & Manna Dey's Superhit Song - R D Burman Songs_lGfTQ-YFjIE.mp3",
+            "imageUrl": "image/images (44).jpeg",
+            "name": "Ek Chatur Naar",
+            "artistName": "Kishore Kumar & Manna Dey"
+        },
+    "song63":
+        {
+            "isActive": false,
+            "id": 63,
+            "url": "/music/Classic/Kisi ki Muskurahaton Pe Ho - VIDEO SONG _ Anari (1959) _ Raj Kapoor & Nutan _ Mukesh _ Hindi Songs_dw8lGSo6_2U.mp3",
+            "imageUrl": "image/images (45).jpeg",
+            "name": "Kisi ki Muskurahaton Pe Ho",
+            "artistName": "Raj Kapoor & Nutan"
+        },
+    "song64":
+        {
+            "isActive": false,
+            "id": 64,
+            "url": "/music/Classic/Kya Khoob Lagti Ho Mukesh Kanchan Dharmatma 1975 Hema Malini, Feroz Khan, Mukesh, Kanchan_47qE1dlDIAg.mp3",
+            "imageUrl": "image/images (46).jpeg",
+            "name": "Kya Khoob Lagti Ho",
+            "artistName": "Mukesh Kanchan Dharmatma 1975 Hema Malini, Feroz Khan, Mukesh"
+        },
+    "song65":
+        {
+            "isActive": false,
+            "id": 65,
+            "url": "/music/Classic/Likhe Jo Khat Tujhe _ 4K Video _ Kanyadaan _ Shashi Kapoor, Asha Parekh _ Mohammed Rafi_DRBxROqWOPk.mp3",
+            "imageUrl": "image/images (47).jpeg",
+            "name": "Likhe Jo Khat Tujhe",
+            "artistName": "Mohammed Rafi"
+        },
+    "song66":
+        {
+            "isActive": false,
+            "id": 66,
+            "url": "/music/Classic/Mere Mehboob Qayamat Hogi (Original) - Mr. X In Bombay - Kishore Kumars Greatest Hits - Old Songs_yIzCBU0_LyY.mp3",
+            "imageUrl": "image/images (49).jpeg",
+            "name": "Mere Mehboob Qayamat Hogi ",
+            "artistName": "Mr. X In Bombay - Kishore Kumars Greatest Hits"
+        },
+    "song67":
+        {
+            "isActive": false,
+            "id": 67,
+            "url": "/music/Classic/Pyar Hua Ikraar Hua _ Raj Kapoor & Nargis _ Shree 420 _ Evergreen Lata Mangeshkar _ Ishtar Music_xjxyculMGzE.mp3",
+            "imageUrl": "image/images (50).jpeg",
+            "name": "Pyar Hua Ikraar Hua",
+            "artistName": "Lata Mangeshkar"
+        },
+    "song68":
+        {
+            "isActive": false,
+            "id": 68,
+            "url": "/music/Classic/YouTube_kBKA3g8WTuE.mp3",
+            "imageUrl": "image/images (51).jpeg",
+            "name": "Ek Ladki Bheegi Bhagi si",
+            "artistName": "classic 50's"
+        }
+}

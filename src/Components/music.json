@@ -1,0 +1,1505 @@
+{
+    "song1":
+        {
+            "isActive": false,
+            "id": 1,
+            "url": "/music/NewRelease/Aate Rehte Hain-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images.jpeg",
+            "name": "Aate Rehte Hain",
+            "artistName": "B praak"
+        },
+    "song2":
+        {
+            "isActive": false,
+            "id": 2,
+            "url": "/music/NewRelease/Akhiyaan Gulaab (Song)_ Shahid Kapoor, Kriti Sanon  Mitraz  Teri Baaton Mein Aisa Uljha Jiya.mp3",
+            "imageUrl": "image/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500.jpg",
+            "name": "Akhiyaan Gulaab (Song)_ Shahid Kapoor, Kriti Sanon",
+            "artistName": " Teri Baaton Mein Aisa Uljha Jiya"
+        },
+    "song3":
+        {
+            "isActive": false,
+            "id": 3,
+            "url": "/music/NewRelease/Bole Jo Koyal Dhoni-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (1).jpeg",
+            "name": "Bole Jo Koyal",
+            "artistName": "Ms Dhoni"
+        },
+    "song4":
+        {
+            "isActive": false,
+            "id": 4,
+            "url": "/music/NewRelease/Choli Ke Peeche  Crew - Tabu, Kareena Kapoor K, Kriti Sanon, @diljitdosanjh, Ila Arun, Alka Yagnik.mp3",
+            "imageUrl": "image/Choli-Ke-Peeche-From-Crew-Hindi-2024-20240319222308-500x500.jpg",
+            "name": "Choli Ke Peeche  Crew ",
+            "artistName": "Tabu, Kareena Kapoor K, Kriti Sanon, diljitdosanjh, Ila Arun, Alka Yagnik"
+        },
+    "song5":
+        {
+            "isActive": false,
+            "id": 5,
+            "url": "/music/NewRelease/Dunki_ O Maahi (Full Video)  Shah Rukh Khan  Taapsee Pannu  Pritam  Arijit Singh  Irshad Kamil.mp3",
+            "imageUrl": "image/images (3).jpeg",
+            "name": "Dunki_ O Maahi",
+            "artistName": "Shah Rukh Khan  Taapsee Pannu  Pritam  Arijit Singh  Irshad Kamil"
+        },
+    "song6":
+        {
+            "isActive": false,
+            "id": 6,
+            "url": "/music/NewRelease/Heeriye (Official Video) Jasleen Royal ft Arijit Singh Dulquer Salmaan Aditya Sharma Taani Tanvir.mp3",
+            "imageUrl": "image/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-500x500.jpg",
+            "name": "Heeriye",
+            "artistName": "Arijit Singh Dulquer Salmaan Aditya Sharma Taani Tanvir"
+        },
+    "song7":
+        {
+            "isActive": false,
+            "id": 7,
+            "url": "/music/NewRelease/JAWAN_ Chaleya (Hindi)  Shah Rukh Khan  Nayanthara  Atlee  Anirudh  Arijit S, Shilpa R  Kumaar.mp3",
+            "imageUrl": "image/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+            "name": "JAWAN_ Chaleya",
+            "artistName": "Shah Rukh Khan  Nayanthara  Atlee  Anirudh  Arijit S, Shilpa R  Kumaar"
+        },
+    "song8":
+        {
+            "isActive": false,
+            "id": 8,
+            "url": "/music/NewRelease/Jiya Mera-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/11190f3d3da73bcfafdce020ac48c53.png",
+            "name": "Jiya Mera",
+            "artistName": "garvit-Priyansh"
+        },
+    "song9":
+        {
+            "isActive": false,
+            "id": 9,
+            "url": "/music/NewRelease/Kaabil - Stebin Ben-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (4).jpeg",
+            "name": "Kaabil",
+            "artistName": "- Stebin Ben"
+        },
+    "song10":
+        {
+            "isActive": false,
+            "id": 10,
+            "url": "/music/NewRelease/Laa Pila De Sharaab-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (5).jpeg",
+            "name": "Laa Pila De Sharaab",
+            "artistName": "Ankita lokhande and Vicky Jain"
+        },
+    "song11":
+        {
+            "isActive": false,
+            "id": 11,
+            "url": "/music/NewRelease/Naina  Crew  Diljit Dosanjh, Ft. Badshah  Kareena Kapoor Khan, Tabu, Kriti Sanon  Raj Ranjodh.mp3",
+            "imageUrl": "image/images (6).jpeg",
+            "name": "Naina-Crew ",
+            "artistName": "Diljit Dosanjh, Ft. Badshah  Kareena Kapoor Khan, Tabu, Kriti Sanon  Raj Ranjodh "
+        },
+    "song12":
+        {
+            "isActive": false,
+            "id": 12,
+            "url": "/music/NewRelease/New Song 2024_ Rehnuma  New Hindi Song  Sidharth Malhotra  Rakul Preet Singh  Romantic Song.mp3",
+            "imageUrl": "image/images (7).jpeg",
+            "name": "Rehnuma",
+            "artistName": "Sidharth Malhotra  Rakul Preet Singh  Romantic Song"
+        },
+    "song13":
+        {
+            "isActive": false,
+            "id": 13,
+            "url": "/music/NewRelease/Senti Akhiyaan-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/Senti-Akhiyaan-Hindi-2024-20240326054815-500x500.jpg",
+            "name": "Senti Akhiyaan",
+            "artistName": "Ram Sampath and Sonam Mohapatra"
+        },
+    "song14":
+        {
+            "isActive": false,
+            "id": 14,
+            "url": "/music/NewRelease/Teri Baaton Mein Aisa Uljha Jiya (Title Track)_ Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees.mp3",
+            "imageUrl": "image/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500 (1).jpg",
+            "name": "Teri Baaton Mein Aisa Uljha Jiya (Title Track)_ Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees",
+            "artistName": "Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees"
+        },
+    "song15":
+        {
+            "isActive": false,
+            "id": 15,
+            "url": "/music/NewRelease/Tilasmi Bahein-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (8).jpeg",
+            "name": "Tilasmi Bahein",
+            "artistName": "Sonakshi Sinha"
+        },
+    "song16":
+        {
+            "isActive": false,
+            "id": 16,
+            "url": "/music/NewRelease/Ve Haaniyaan - Official Video  Ravi Dubey & Sargun Mehta  Danny  Avvy Sra  Dreamiyata Music.mp3",
+            "imageUrl": "image/Ve-Haaniyaan-Punjabi-2024-20240212220137-500x500.jpg",
+            "name": "Ve Haaniyaan - Ravi Dubey & Sargun Mehta ",
+            "artistName": "Danny Avvy Sra Dreamiyata Music"
+        },
+    "song17":
+        {
+            "isActive": false,
+            "id": 17,
+            "url": "/music/NewRelease/Yimmy Yimmy - Tayc  Shreya Ghoshal  Jacqueline Fernandez  Rajat N  Rana  Nyadjiko  Anshul Garg.mp3",
+            "imageUrl": "image/Yimmy-Yimmy-Tayc-500-500.jpg",
+            "name": "Yimmy Yimmy - Tayc Jacqueline Fernandez  Rajat N  Rana  Nyadjiko  Anshul Garg",
+            "artistName": "Shreya Ghoshal"
+        },
+    "song18":
+        {
+            "isActive": false,
+            "id": 18,
+            "url": "/music/NewRelease/ZAALIM (Official Music Video)_ Badshah, Nora Fatehi  Payal Dev  Abderafia El Abdioui  Bhushan K.mp3",
+            "imageUrl": "image/images (9).jpeg",
+            "name": "ZAALIM",
+            "artistName": "Badshah, Nora Fatehi  Payal Dev  Abderafia El Abdioui  Bhushan K"
+        },
+    "song19":
+        {
+            "isActive": false,
+            "id": 19,
+            "url": "/music/TopCharts/fallin-for-you-shrey-singhal-directorgifty-official-video-(mp3convert.org).mp3",
+            "imageUrl": "image/images (10).jpeg",
+            "name": "fallin for you",
+            "artistName": "shrey-singhal"
+        },
+    "song20":
+        {
+            "isActive": false,
+            "id": 20,
+            "url": "/music/TopCharts/janiye-music-video-chor-nikal-ke-bhaga-vishal-mishra-rashmeet-kaur-netflix-india-(mp3convert.org).mp3",
+            "imageUrl": "image/Chor-Nikal-Ke-Bhaga-Soundtrack-from-the-Netflix-Film-Hindi-2023-20230314201135-500x500.jpg",
+            "name": "janiye-chor-nikal-ke-bhaga",
+            "artistName": "vishal-mishra-rashmeet-kaur-netflix-india"
+        },
+    "song21":
+        {
+            "isActive": false,
+            "id": 21,
+            "url": "/music/TopCharts/kangana-tera-ni-abeer-arora-hardbazy-laung-mare-lashkare-full-video-(mp3convert.org).mp3",
+            "imageUrl": "image/images (11).jpeg",
+            "name": "kangana-tera-ni",
+            "artistName": "abeer-arora-hardbazy-laung-mare-lashkare"
+        },
+    "song22":
+        {
+            "isActive": false,
+            "id": 22,
+            "url": "/music/TopCharts/kitna-haseen-chehra-jalraj-dilwale-new-hindi-covers-2022-(mp3convert.org).mp3",
+            "imageUrl": "image/images (12).jpeg",
+            "name": "kitna-haseen-chehra",
+            "artistName": "jalraj-dilwale-new-hindi-covers-2022"
+        },
+    "song23":
+        {
+            "isActive": false,
+            "id": 23,
+            "url": "/music/TopCharts/kiven-mukkhde-lofi-version-madhur-sharma-nusrat-fateh-ali-khan-tunelyrico-(mp3convert.org).mp3",
+            "imageUrl": "image/images (13).jpeg",
+            "name": "kiven-mukkhde",
+            "artistName": "lofi-version-madhur-sharma-nusrat-fateh-ali-khan"
+        },
+    "song24":
+        {
+            "isActive": false,
+            "id": 24,
+            "url": "/music/TopCharts/Lehrake Balkhake( Sharara Sharara ) I Male Version I Karan Nawani I Asha Bhosle_CGtOyGC0bMI.mp3",
+            "imageUrl": "image/images (14).jpeg",
+            "name": "Lehrake Balkhake-Sharara Sharara ",
+            "artistName": "Karan Nawani | Asha Bhosle"
+        },
+    "song25":
+        {
+            "isActive": false,
+            "id": 25,
+            "url": "/music/TopCharts/my-dil-goes-mmmm-ladki-kyon-na-jaane-kyun-i-karan-nawani-i-r3zr-(mp3convert.org).mp3",
+            "imageUrl": "image/images (15).jpeg",
+            "name": "my-dil-goes-mmmm-ladki-kyon-na-jaane-kyun",
+            "artistName": "karan-nawani"
+        },
+    "song26":
+        {
+            "isActive": false,
+            "id": 26,
+            "url": "/music/TopCharts/na-kajre-ki-dhar-reprise-jalraj-90-s-song-new-hindi-covers-2022-(mp3convert.org).mp3",
+            "imageUrl": "image/images (16).jpeg",
+            "name": "na-kajre-ki-dhar",
+            "artistName": "jalraj-90-s-song"
+        },
+    "song27":
+        {
+            "isActive": false,
+            "id": 27,
+            "url": "/music/TopCharts/nish-standing-by-you-duniya-cover-official-video-bangla-luka-chuppi-akhil-dhvani-b-(mp3convert.org).mp3",
+            "imageUrl": "image/sddefault.jpg",
+            "name": "nish-standing-by-you-duniya-cover",
+            "artistName": "bangla-luka-chuppi-akhil-dhvani"
+        },
+    "song28":
+        {
+            "isActive": false,
+            "id": 28,
+            "url": "/music/TopCharts/no-love-official-audio-shubh-(mp3convert.org).mp3",
+            "imageUrl": "image/images (17).jpeg",
+            "name": "no-love",
+            "artistName": "official-audio-shubh"
+        },
+    "song29":
+        {
+            "isActive": false,
+            "id": 29,
+            "url": "/music/TopCharts/oh-oh-jane-jaana-i-unplugged-cover-i-karan-nawani-i-pyaar-kiya-to-darna-kya-i-salman-khan-(mp3convert.org).mp3",
+            "imageUrl": "image/images (18).jpeg",
+            "name": "oh-oh-jane-jaana",
+            "artistName": "unplugged-cover-karan-nawani"
+        },
+    "song30":
+        {
+            "isActive": false,
+            "id": 30,
+            "url": "/music/TopCharts/prince-pratap-prophec-kinna-chir-takda-hi-jawan-kinna-tenu-chava-(mp3convert.org).mp3",
+            "imageUrl": "image/images (19).jpeg",
+            "name": "kinna-chir",
+            "artistName": "prince-pratap-prophec"
+        },
+    "song31":
+        {
+            "isActive": false,
+            "id": 31,
+            "url": "/music/TopCharts/sach-keh-raha-hai-deewana-mayank-maurya-rehna-hai-tere-dil-mein-maadhyam-i-tbs-music-i-rhtdm-(mp3convert.org).mp3",
+            "imageUrl": "image/sddefault (1).jpg",
+            "name": "sach-keh-raha-hai-deewana",
+            "artistName": "mayank-maurya-rehna-hai-tere-dil-mein"
+        },
+    "song32":
+        {
+            "isActive": false,
+            "id": 32,
+            "url": "/music/TopCharts/safar-official-video-juss-x-mixsingh-(mp3convert.org).mp3",
+            "imageUrl": "image/images (20).jpeg",
+            "name": "safar",
+            "artistName": "juss-x-mixsingh"
+        },
+    "song33":
+        {
+            "isActive": false,
+            "id": 33,
+            "url": "/music/TopCharts/shubh-one-love-official-audio-(mp3convert.org).mp3",
+            "imageUrl": "image/sddefault (2).jpg",
+            "name": "one love",
+            "artistName": "shubh"
+        },
+    "song34":
+        {
+            "isActive": false,
+            "id": 34,
+            "url": "/music/TopCharts/suraj-hua-maddham-i-karan-nawani-i-k3g-shah-rukh-khan-kajol-sonu-nigam-alka-yagnik-(mp3convert.org).mp3",
+            "imageUrl": "image/images (21).jpeg",
+            "name": "suraj hua maddham",
+            "artistName": "karan-nawani"
+        },
+    "song35":
+        {
+            "isActive": false,
+            "id": 35,
+            "url": "/music/TopCharts/tujh-mein-rab-dikhta-hai-janam-dekhlo-mashup-i-karan-nawani-i-udit-narayan-(mp3convert.org).mp3",
+            "imageUrl": "image/images (22).jpeg",
+            "name": "tujh mein rab dikhta hai janam dekhlo mashup",
+            "artistName": "karan-nawani"
+        },
+        "song36":
+        {
+            "isActive": false,
+            "id": 36,
+            "url": "/music/Lofi/Arcade x Mann Mera (Mashup) Full Version _ Gravero_-aQMjByEeo8.mp3",
+            "imageUrl": "image/images (23).jpeg",
+            "name": "Arcade x Mann Mera",
+            "artistName": "Gravero"
+        },
+    "song37":
+        {
+            "isActive": false,
+            "id": 37,
+            "url": "/music/Lofi/Excuses X Attention (Mashup) _ Adbhut Chapter 1 _ AP Dhillon _ Gurinder Gill _ ROHAN_2DoGz90IE_I.mp3",
+            "imageUrl": "image/images (24).jpeg",
+            "name": "Excuses X Attention",
+            "artistName": "AP Dhillon _ Gurinder Gill"
+        },
+    "song38":
+        {
+            "isActive": false,
+            "id": 38,
+            "url": "/music/Lofi/Heeriye X Chaleya X Tu Aake Dekhle Insta Mashup _ revibe _ Viral Insta Reels, TikTok Remix __9M_ZKSmxb_s.mp3",
+            "imageUrl": "image/images (25).jpeg",
+            "name": "Heeriye X Chaleya X Tu Aake Dekhle",
+            "artistName": "Insta Mashup"
+        },
+    "song39":
+        {
+            "isActive": false,
+            "id": 39,
+            "url": "/music/Lofi/Kabhi Kabhi x Cheap Thrills x Stereo Hearts Mashup _ Soulful Music_hyLptPhQ4WA.mp3",
+            "imageUrl": "image/sddefault (3).jpg",
+            "name": "Kabhi Kabhi x Cheap Thrills x Stereo Hearts",
+            "artistName": "Mashup"
+        },
+    "song40":
+        {
+            "isActive": false,
+            "id": 40,
+            "url": "/music/Lofi/Pehli Nazar Mein X I Like Me Better (Slowed and Reverb) _ Lauv & Atif Aslam _ Pkachu Revibe_-CvwPci89oA.mp3",
+            "imageUrl": "image/images (26).jpeg",
+            "name": "Pehli Nazar Mein X I Like Me Better",
+            "artistName": "Slowed and Reverb"
+        },
+    "song41":
+        {
+            "isActive": false,
+            "id": 41,
+            "url": "/music/Lofi/People X Nainowale Ne (Mashup) - Full Version _ Neeti Mohan & Libianca _ Lo-fi 2307 _ Insta Viral_riVOHkYvzjI.mp3",
+            "imageUrl": "image/images (27).jpeg",
+            "name": "People X Nainowale Ne",
+            "artistName": "Neeti Mohan & Libianca"
+        },
+    "song42":
+        {
+            "isActive": false,
+            "id": 42,
+            "url": "/music/Lofi/Phir Mohabbat x Aye Khuda x Uska Hi Banana - JalRaj _ Emraan Hashmi _ Latest Hindi Cover 2022_RGm-zg9uXDQ.mp3",
+            "imageUrl": "image/images (28).jpeg",
+            "name": "Phir Mohabbat x Aye Khuda x Uska Hi Banana",
+            "artistName": "JalRaj _ Emraan Hashmi"
+        },
+    "song43":
+        {
+            "isActive": false,
+            "id": 43,
+            "url": "/music/Lofi/Shayad x Sanware (w_Lyrics) _ Arijit Singh _ Sagar Swarup_SpIk68s-NaI.mp3",
+            "imageUrl": "image/images (29).jpeg",
+            "name": "Shayad x Sanware",
+            "artistName": "Arijit Singh Sagar Swarup"
+        },
+    "song44":
+        {
+            "isActive": false,
+            "id": 44,
+            "url": "/music/Lofi/tera-nasha-x-tere-naino-mein-jalraj-the-bilz-kashif-latest-hindi-cover-2022-(mp3convert.org).mp3",
+            "imageUrl": "image/images (30).jpeg",
+            "name": "Tera nasha x tere naino mein",
+            "artistName": "jalraj"
+        },
+    "song45":
+        {
+            "isActive": false,
+            "id": 45,
+            "url": "/music/Lofi/Woh Lamhe X Laare Choote _ Adbhut Chapter 15(Extended) _ ROHAN _ Atif Aslam _ Indian Synthwave Remix_rDe6QJ4AGQE.mp3",
+            "imageUrl": "image/images (31).jpeg",
+            "name": "Woh Lamhe X Laare Choote",
+            "artistName": "Atif Aslam"
+        },
+    "song46":
+        {
+            "isActive": false,
+            "id": 46,
+            "url": "/music/Lofi/Yeh Haseen Vadiyan Remix _ Aftermorning _ Roja _ A.R. Rahman _ Romantic Mashup_ArG44MuWfVE.mp3",
+            "imageUrl": "image/images (32).jpeg",
+            "name": "Yeh Haseen Vadiyan Remix",
+            "artistName": "A.R. Rahman _ Romantic Mashup"
+        },
+    "song47":
+        {
+            "isActive": false,
+            "id": 47,
+            "url": "/music/Lofi/Zara Zara x Let Me Down Slowly - JalRaj _ Alec Benjamin _ New Mashup 2022_u9BQhXf4yQc.mp3",
+            "imageUrl": "image/images (33).jpeg",
+            "name": "Zara Zara x Let Me Down Slowly",
+            "artistName": "JalRaj _ Alec Benjamin"
+        },
+        "song48":
+        {
+            "isActive": false,
+            "id": 48,
+            "url": "/music/Bhakti/Adharam Madhuram (Hindi Version) _ Swasti Mehul _ Hey Krishn Tere Hoth Madhur _ Janmashtami Bhajan_wguWHzMzskY.mp3",
+            "imageUrl": "image/Adharam-Madhuram-Hindi-2022-20220816161810-500x500.jpg",
+            "name": "Adharam Madhuram",
+            "artistName": "Swasti Mehul"
+        },
+    "song49":
+        {
+            "isActive": false,
+            "id": 49,
+            "url": "/music/Bhakti/Hum Katha Sunate Ram Sakal Gun Dhaam Ki_cLXwueeNxe4.mp3",
+            "imageUrl": "image/images (34).jpeg",
+            "name": "Hum Katha Sunate Ram Sakal Gun Dhaam Ki",
+            "artistName": "Ram Bhajan"
+        },
+    "song50":
+        {
+            "isActive": false,
+            "id": 50,
+            "url": "/music/Bhakti/Jai Radhe Jai Radhe_460Th1I28Oc.mp3",
+            "imageUrl": "image/images (35).jpeg",
+            "name": "Jai Radhe Jai Radhe",
+            "artistName": " Jai Radhe Jai Radhe"
+        },
+    "song51":
+        {
+            "isActive": false,
+            "id": 51,
+            "url": "/music/Bhakti/Keejo Kesari Ke Laal _ Jai Shree Ram _ Dj Karan Kahar Dj Dakshraj_cY4nGCw-JxY.mp3",
+            "imageUrl": "image/images (36).jpeg",
+            "name": "Keejo Kesari Ke Laal",
+            "artistName": "Jai Shree Ram _ Dj Karan Kahar Dj Dakshraj"
+        },
+    "song52":
+        {
+            "isActive": false,
+            "id": 52,
+            "url": "/music/Bhakti/Pata Nahi Kis Roop Me Aakar Narayan Mil Jayega __ Swati Mishra __ Official Video_i0P7x5AsP4o.mp3",
+            "imageUrl": "image/images (37).jpeg",
+            "name": "Pata Nahi Kis Roop Me Aakar",
+            "artistName": "Swati Mishra"
+        },
+    "song53":
+        {
+            "isActive": false,
+            "id": 53,
+            "url": "/music/Bhakti/Raam Aayenge __ Swati Mishra Bhajan_wncNcu6jEgs.mp3",
+            "imageUrl": "image/images (38).jpeg",
+            "name": "Ram Aayenge",
+            "artistName": "Swati Mishra"
+        },
+    "song54":
+        {
+            "isActive": false,
+            "id": 54,
+            "url": "/music/Bhakti/Ram Siya Ram (Lyrical) Adipurush _ Prabhas _ Sachet-Parampara,Manoj Muntashir S _Om Raut _ Bhushan K_Tl4bQBfOtbg.mp3",
+            "imageUrl": "image/images (39).jpeg",
+            "name": "Ram Siya Ram",
+            "artistName": "Adipurush"
+        },
+    "song55":
+        {
+            "isActive": false,
+            "id": 55,
+            "url": "/music/Bhakti/Shyama Aan Baso Vrindavan Mein _ Swasti Mehul _ Latest Krishna Bhajan_cJoMfLl1Qjw.mp3",
+            "imageUrl": "image/Shyama-Aan-Baso-Hindi-2022-20220714164649-500x500.jpg",
+            "name": "Shyama Aan Baso Vrindavan Mein",
+            "artistName": "Swasti Mehul"
+        },
+    "song56":
+        {
+            "isActive": false,
+            "id": 56,
+            "url": "/music/Bhakti/Tum Prem Ho - Reprise _ Lyrical Video _ Radha Krishn _ MOhit Lalwani _ Surya Raj Kamal_Feoea8FQTI0.mp3",
+            "imageUrl": "image/images (40).jpeg",
+            "name": "Tum Prem Ho",
+            "artistName": "Radha Krishn _ MOhit Lalwani _ Surya Raj Kamal"
+        },
+        "song57":
+        {
+            "isActive": false,
+            "id": 57,
+            "url": "/music/Classic/3 - Why This Kolaveri Di Video _ Dhanush, Shruti Haasan _ Anirudh Ravichandran_5DK-ZWyxZ8k.mp3",
+            "imageUrl": "image/Whu_this_kolaveri_di.jpeg",
+            "name": " Why This Kolaveri Di",
+            "artistName": "Dhanush, Shruti Haasan"
+        },
+    "song58":
+        {
+            "isActive": false,
+            "id": 58,
+            "url": "/music/Classic/Aankhein Khuli Song _ Mohabbatein _ Shah Rukh Khan, Aishwarya Rai _ Lata Mangeshkar, Udit Narayan_eM8Mjuq4MwQ.mp3",
+            "imageUrl": "image/images (41).jpeg",
+            "name": "Aankhein Khuli ho ya ho band",
+            "artistName": "Mohabbatein"
+        },
+    "song59":
+        {
+            "isActive": false,
+            "id": 59,
+            "url": "/music/Classic/मेरे सपनो की रानी Lyrical Song - आराधना - राजेश खन्ना - शर्मिला टैगोर - किशोर कुमार - Mere Sapno Ki..._Ww0vKUcHgSs.mp3",
+            "imageUrl": "image/mere sapno.jpg",
+            "name": "mere sapno ki rani",
+            "artistName": "Kishor Kumar"
+        },
+    "song60":
+        {
+            "isActive": false,
+            "id": 60,
+            "url": "/music/Classic/मेरा जूता है जापानी Mera Joota Hai Japani - HD वीडियो सोंग - मुकेश - राज कपूर__nkYqRqezn8.mp3",
+            "imageUrl": "image/images (42).jpeg",
+            "name": "mera joota hai japani",
+            "artistName": "Mukesh - Raj Kapoor"
+        },
+    "song61":
+        {
+            "isActive": false,
+            "id": 61,
+            "url": "/music/Classic/Dum Dum Diga Diga डम डम डिगा डिगा _ Mukesh _ Raj Kapoor, Nutan, Pran _ Chhalia 1960 _ Bollywood Song_vzfYPcw76Gc.mp3",
+            "imageUrl": "image/images (43).jpeg",
+            "name": "Dum Dum Diga Diga",
+            "artistName": "Mukesh _ Raj Kapoor, Nutan, Pran"
+        },
+    "song62":
+        {
+            "isActive": false,
+            "id": 62,
+            "url": "/music/Classic/Ek Chatur Naar Badi Hoshiyaar - Kishore Kumar & Manna Dey's Superhit Song - R D Burman Songs_lGfTQ-YFjIE.mp3",
+            "imageUrl": "image/images (44).jpeg",
+            "name": "Ek Chatur Naar",
+            "artistName": "Kishore Kumar & Manna Dey"
+        },
+    "song63":
+        {
+            "isActive": false,
+            "id": 63,
+            "url": "/music/Classic/Kisi ki Muskurahaton Pe Ho - VIDEO SONG _ Anari (1959) _ Raj Kapoor & Nutan _ Mukesh _ Hindi Songs_dw8lGSo6_2U.mp3",
+            "imageUrl": "image/images (45).jpeg",
+            "name": "Kisi ki Muskurahaton Pe Ho",
+            "artistName": "Raj Kapoor & Nutan"
+        },
+    "song64":
+        {
+            "isActive": false,
+            "id": 64,
+            "url": "/music/Classic/Kya Khoob Lagti Ho Mukesh Kanchan Dharmatma 1975 Hema Malini, Feroz Khan, Mukesh, Kanchan_47qE1dlDIAg.mp3",
+            "imageUrl": "image/images (46).jpeg",
+            "name": "Kya Khoob Lagti Ho",
+            "artistName": "Mukesh Kanchan Dharmatma 1975 Hema Malini, Feroz Khan, Mukesh"
+        },
+    "song65":
+        {
+            "isActive": false,
+            "id": 65,
+            "url": "/music/Classic/Likhe Jo Khat Tujhe _ 4K Video _ Kanyadaan _ Shashi Kapoor, Asha Parekh _ Mohammed Rafi_DRBxROqWOPk.mp3",
+            "imageUrl": "image/images (47).jpeg",
+            "name": "Likhe Jo Khat Tujhe",
+            "artistName": "Mohammed Rafi"
+        },
+    "song66":
+        {
+            "isActive": false,
+            "id": 66,
+            "url": "/music/Classic/Mere Mehboob Qayamat Hogi (Original) - Mr. X In Bombay - Kishore Kumars Greatest Hits - Old Songs_yIzCBU0_LyY.mp3",
+            "imageUrl": "image/images (49).jpeg",
+            "name": "Mere Mehboob Qayamat Hogi ",
+            "artistName": "Mr. X In Bombay - Kishore Kumars Greatest Hits"
+        },
+    "song67":
+        {
+            "isActive": false,
+            "id": 67,
+            "url": "/music/Classic/Pyar Hua Ikraar Hua _ Raj Kapoor & Nargis _ Shree 420 _ Evergreen Lata Mangeshkar _ Ishtar Music_xjxyculMGzE.mp3",
+            "imageUrl": "image/images (50).jpeg",
+            "name": "Pyar Hua Ikraar Hua",
+            "artistName": "Lata Mangeshkar"
+        },
+    "song68":
+        {
+            "isActive": false,
+            "id": 68,
+            "url": "/music/Classic/YouTube_kBKA3g8WTuE.mp3",
+            "imageUrl": "image/images (51).jpeg",
+            "name": "Ek Ladki Bheegi Bhagi si",
+            "artistName": "classic 50's"
+        },
+        "song69":
+        {
+            "isActive": false,
+            "id": 69,
+            "url": "/music/Bhojpuri/Choliya-Ke-Hook-Raja-Ji(PagalWorlld.Com).mp3",
+            "imageUrl": "image/images (52).jpeg",
+            "name": "Choliya-Ke-Hook-Raja-Ji",
+            "artistName": "BHojpuri Hits"
+        },
+    "song70":
+        {
+            "isActive": false,
+            "id": 70,
+            "url": "/music/Bhojpuri/Dilwa ke Chor - Swati Mishra [128] Kbps-(PagalWorld.Gay).mp3",
+            "imageUrl": "image/images (53).jpeg",
+            "name": "Dilwa ke Chor",
+            "artistName": "Swati Mishra"
+        },
+    "song71":
+        {
+            "isActive": false,
+            "id": 71,
+            "url": "/music/Bhojpuri/Gulab Jaisan Khilal Badu(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (54).jpeg",
+            "name": "Gulab Jaisan Khilal Badu",
+            "artistName": "BHojpuri Hits"
+        },
+    "song72":
+        {
+            "isActive": false,
+            "id": 72,
+            "url": "/music/Bhojpuri/Makaiya Me Raja Ji - Pawan Singh [128] Kbps-(PagalWorld.Gay).mp3",
+            "imageUrl": "image/images (55).jpeg",
+            "name": "Makaiya Me Raja Ji",
+            "artistName": "Pawan Singh"
+        },
+    "song73":
+        {
+            "isActive": false,
+            "id": 73,
+            "url": "/music/Bhojpuri/Naach Re Patarki 2.0(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (56).jpeg",
+            "name": "Naach Re Patarki 2.0",
+            "artistName": "BHojpuri Hits"
+        },
+    "song74":
+        {
+            "isActive": false,
+            "id": 74,
+            "url": "/music/Bhojpuri/Rajaji Ke Dilwa(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (57).jpeg",
+            "name": "Rajaji Ke Dilwa",
+            "artistName": "Bhojpuri Hits"
+        },
+    "song75":
+        {
+            "isActive": false,
+            "id": 75,
+            "url": "/music/Bhojpuri/Tohre Me Base Raja Humro Paranwa Ho(PagalWorld).mp3",
+            "imageUrl": "image/images (58).jpeg",
+            "name": "Tohre Me Base Raja",
+            "artistName": "Swati Mishra"
+        },
+        "song76":
+        {
+            "isActive": false,
+            "id": 76,
+            "url": "/music/Kk/Aafreen (1920 London)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (59).jpeg",
+            "name": "Aafreen",
+            "artistName": "KK - (1920 London)"
+        },
+    "song77":
+        {
+            "isActive": false,
+            "id": 78,
+            "url": "/music/Kk/Aankhon Mein Teri (Om Shanti Om)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (60).jpeg",
+            "name": "Aankhon Mein Teri",
+            "artistName": "Kk (Om Shanti Om)"
+        },
+    "song79":
+        {
+            "isActive": false,
+            "id": 79,
+            "url": "/music/Kk/Dil Ibadat(PaglaSongs).mp3",
+            "imageUrl": "image/images (61).jpeg",
+            "name": "Dil Ibadat",
+            "artistName": "Kk - Imran Hasmi"
+        },
+    "song80":
+        {
+            "isActive": false,
+            "id": 80,
+            "url": "/music/Kk/Haan Tu Hain KK(PaglaSongs).mp3",
+            "imageUrl": "image/images (62).jpeg",
+            "name": "Haan Tu Hain",
+            "artistName": "Kk"
+        },
+    "song81":
+        {
+            "isActive": false,
+            "id": 81,
+            "url": "/music/Kk/Khuda Jaane - K.K_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/maxresdefault.jpg",
+            "name": "Khuda Jaane",
+            "artistName": "Kk"
+        },
+    "song82":
+        {
+            "isActive": false,
+            "id": 82,
+            "url": "/music/Kk/Labon Ko  Labon Pe Sajao(PaglaSongs).mp3",
+            "imageUrl": "image/Bhool-Bhulaiyaa-Hindi-2007-20221122005742-500x500.jpg",
+            "name": "Labon Ko  Labon Pe Sajao",
+            "artistName": "Kk"
+        },
+    "song83":
+        {
+            "isActive": false,
+            "id": 83,
+            "url": "/music/Kk/Main Agar - Film Version (Tubelight)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (63).jpeg",
+            "name": "Main Agar",
+            "artistName": "Tubelight"
+        },
+    "song84":
+        {
+            "isActive": false,
+            "id": 84,
+            "url": "/music/Kk/Piya Aaye Na (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/Aashiqui-2-Hindi-2013-500x500.jpg",
+            "name": "Piya Aaye Na",
+            "artistName": "Aashiqui 2"
+        },
+    "song85":
+        {
+            "isActive": false,
+            "id": 85,
+            "url": "/music/Kk/Teri Yaadon Mein (The Killer) - K.K_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (65).jpeg",
+            "name": "Teri Yaadon Mein",
+            "artistName": "The Killer"
+        },
+    "song86":
+        {
+            "isActive": false,
+            "id": 86,
+            "url": "/music/Kk/Tu Hi Meri Shab Hai(PaglaSongs).mp3",
+            "imageUrl": "image/images (66).jpeg",
+            "name": "Tu Hi Meri Shab Hai",
+            "artistName": "kk"
+        },
+    "song87":
+        {
+            "isActive": false,
+            "id": 87,
+            "url": "/music/Kk/Tujhe Sochta Hoon(PaglaSongs).mp3",
+            "imageUrl": "image/images (67).jpeg",
+            "name": "Tujhe Sochta Hoon",
+            "artistName": "Kk - Imran Hasmi"
+        },
+    "song88":
+        {
+            "isActive": false,
+            "id": 88,
+            "url": "/music/Kk/Zara Sa(PaglaSongs).mp3",
+            "imageUrl": "image/images (62).jpeg",
+            "name": "Zara Sa",
+            "artistName": "Kk - Imran Hasmi"
+        },
+        "song89":
+        {
+            "isActive": false,
+            "id": 89,
+            "url": "/music/ArijitSingh/Milne Hai Mujhse Aayi (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/Aashiqui-2-Hindi-2013-500x500.jpg",
+            "name": "Milne Hai Mujhse Aayi",
+            "artistName": "Aashiqui 2"
+        },
+    "song90":
+        {
+            "isActive": false,
+            "id": 90,
+            "url": "/music/ArijitSingh/Dil Cheez Tujhe Dedi - Airlift (Arijit Singh n Ankit Tiwari) 190Kbps.mp3",
+            "imageUrl": "image/images (69).jpeg",
+            "name": "Dil Cheez Tujhe Dedi",
+            "artistName": "Airlift (Arijit Singh and Ankit Tiwari)"
+        },
+    "song91":
+        {
+            "isActive": false,
+            "id": 91,
+            "url": "/music/ArijitSingh/Duaa_192(PagalWorld).mp3",
+            "imageUrl": "image/images (70).jpeg",
+            "name": "Dua - Arijit Singh",
+            "artistName": " MTV Unplugged"
+        },
+    "song92":
+        {
+            "isActive": false,
+            "id": 92,
+            "url": "/music/ArijitSingh/Raatan Lambiyan_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (68).jpeg",
+            "name": "Raatan Lambiyan",
+            "artistName": "Shershah"
+        },
+    "song93":
+        {
+            "isActive": false,
+            "id": 93,
+            "url": "/music/ArijitSingh/Tum Hi Ho (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (71).jpeg",
+            "name": "Tum hi ho",
+            "artistName": "Aashiqui 2"
+        },
+    "song94":
+        {
+            "isActive": false,
+            "id": 94,
+            "url": "/music/ArijitSingh/Khamoshiyan [Arijit Singh] Full Title Song.mp3",
+            "imageUrl": "image/images (72).jpeg",
+            "name": "Khamoshiyan",
+            "artistName": "[Arijit Singh] Full Title Song"
+        },
+    "song95":
+        {
+            "isActive": false,
+            "id": 95,
+            "url": "/music/ArijitSingh/Main Dhoondne Ko Zamaane Mein (Heartless) - Arijit Singh.mp3",
+            "imageUrl": "image/Heartless-2014-500x500.jpg",
+            "name": "Main Dhoondne Ko Zamaane Mein",
+            "artistName": "(Heartless) - Arijit Singh"
+        },
+    "song96":
+        {
+            "isActive": false,
+            "id": 96,
+            "url": "/music/ArijitSingh/Mareez - E - Ishq (Arijit Singh) - 190Kbps.mp3",
+            "imageUrl": "image/images (75).jpeg",
+            "name": "Mareez - E - Ishq ",
+            "artistName": "Arijit Singh"
+        },
+    "song97":
+        {
+            "isActive": false,
+            "id": 97,
+            "url": "/music/ArijitSingh/Saanson Ko (Zid) -190Kbps [PagalWorld.com].mp3",
+            "imageUrl": "image/images (73).jpeg",
+            "name": "Saanson Ko",
+            "artistName": "Arijit Singh - ZID"
+        },
+    "song98":
+        {
+            "isActive": false,
+            "id": 98,
+            "url": "/music/ArijitSingh/Sukoon Mila (Mary Kom) Arijit Singh [PagalWorld.com].mp3",
+            "imageUrl": "image/1200x1200bf-60.jpg",
+            "name": "Sukoon Mila",
+            "artistName": "(Mary Kom) Arijit Singh"
+        },
+    "song99":
+        {
+            "isActive": false,
+            "id": 99,
+            "url": "/music/ArijitSingh/Sun Le Zara (Arijit Singh) Singham Returns 190Kbps.mp3",
+            "imageUrl": "image/images (77).jpeg",
+            "name": "Sun Le Zara",
+            "artistName": "(Arijit Singh) Singham Returns"
+        },
+    "song100":
+        {
+            "isActive": false,
+            "id": 100,
+            "url": "/music/ArijitSingh/Tu Hi Hai Aashiqui (Dishkiyaoon) Arijit Singh (webrip).mp3",
+            "imageUrl": "image/images (78).jpeg",
+            "name": "Tu Hi Hai Aashiqui",
+            "artistName": "(Dishkiyaoon) Arijit Singh"
+        },
+    "song101":
+        {
+            "isActive": false,
+            "id": 101,
+            "url": "/music/ArijitSingh/Uska Hi Banana (1).mp3",
+            "imageUrl": "image/images (79).jpeg",
+            "name": "Uska Hi Banana",
+            "artistName": "Arijit singh"
+        },
+        "song102":
+        {
+            "isActive": false,
+            "id": 102,
+            "url": "/music/JubinNautial/Bewafa Tera Masoom Chehra - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_11_2024-04-14_03-25-45.jpg",
+            "name": "Bewafa Tera Masoom Chehra ",
+            "artistName": "Jubin Nautiyal"
+        },
+    "song103":
+        {
+            "isActive": false,
+            "id": 103,
+            "url": "/music/JubinNautial/Chitthi - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_12_2024-04-14_03-25-45.jpg",
+            "name": "Chitthi",
+            "artistName": "Jubin nautial"
+        },
+    "song104":
+        {
+            "isActive": false,
+            "id": 104,
+            "url": "/music/JubinNautial/Humnava Mere - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_2024-04-14_03-28-39.jpg",
+            "name": "Humnava Mere",
+            "artistName": "Jubin nautial"
+        },
+    "song105":
+        {
+            "isActive": false,
+            "id": 105,
+            "url": "/music/JubinNautial/Kaabil Hoon (Kaabil)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_4_2024-04-14_03-25-45.jpg",
+            "name": "Kaabil Hoon",
+            "artistName": "Jubin nautial"
+        },
+    "song106":
+        {
+            "isActive": false,
+            "id": 106,
+            "url": "/music/JubinNautial/Kabira - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_8_2024-04-14_03-25-45.jpg",
+            "name": "Kabira",
+            "artistName": "Jubin nautial"
+        },
+    "song107":
+        {
+            "isActive": false,
+            "id": 107,
+            "url": "/music/JubinNautial/Lut Gaye (Mumbai Saga)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_3_2024-04-14_03-25-45.jpg",
+            "name": "Lut Gaye ",
+            "artistName": "Mumbai Saga"
+        },
+    "song108":
+        {
+            "isActive": false,
+            "id": 108,
+            "url": "/music/JubinNautial/Manike (Thank God)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_7_2024-04-14_03-25-45.jpg",
+            "name": "Manike",
+            "artistName": "Thank God"
+        },
+    "song109":
+        {
+            "isActive": false,
+            "id": 109,
+            "url": "/music/JubinNautial/Meri Aashiqui - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_5_2024-04-14_03-25-45.jpg",
+            "name": "Meri Aashiqui",
+            "artistName": "Jubin Nautiyal"
+        },
+    "song110":
+        {
+            "isActive": false,
+            "id": 110,
+            "url": "/music/JubinNautial/Phir Mulaaqat (Why Cheat India)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_6_2024-04-14_03-25-45.jpg",
+            "name": "Phir Mulaaqat",
+            "artistName": "Why Cheat India"
+        },
+    "song111":
+        {
+            "isActive": false,
+            "id": 111,
+            "url": "/music/JubinNautial/Tujhe Kitna Chahein Aur (Kabir Singh)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_10_2024-04-14_03-25-45.jpg",
+            "name": "Tujhe Kitna Chahein Aur",
+            "artistName": "Kabir Singh"
+        },
+    "song112":
+        {
+            "isActive": false,
+            "id": 112,
+            "url": "/music/JubinNautial/Tum Hi Aana (Marjaavaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_9_2024-04-14_03-25-45.jpg",
+            "name": "Tum Hi Aana",
+            "artistName": "Marjaavaan"
+        },
+    "song113":
+        {
+            "isActive": false,
+            "id": 113,
+            "url": "/music/JubinNautial/Zindagi Kuch Toh Bata - Reprise (Bajrangi Bhaijaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_2_2024-04-14_03-25-45.jpg",
+            "name": "Zindagi Kuch Toh Bata",
+            "artistName": "Bajrangi Bhaijaan"
+        },
+    "song114":
+        {
+            "isActive": false,
+            "id": 114,
+            "url": "/music/JubinNautial/Tu Mera Hogaya Hai (Tadap)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_1_2024-04-14_03-25-45.jpg",
+            "name": "Tu Mera Hogaya Hai",
+            "artistName": "Tadap"
+        },
+        "song115":
+        {
+            "isActive": false,
+            "id": 115,
+            "url": "/music/ShreyaGhosal/Chaar Kadam (PK)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (80).jpeg",
+            "name": "Chaar Kadam",
+            "artistName": "Pk"
+        },
+    "song116":
+        {
+            "isActive": false,
+            "id": 116,
+            "url": "/music/ShreyaGhosal/Chamak Challo Chel Chabeli (Rowdy Rathore)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (81).jpeg",
+            "name": "Chamak Challo Chel Chabeli",
+            "artistName": "Rowdy Rathore"
+        },
+    "song117":
+        {
+            "isActive": false,
+            "id": 117,
+            "url": "/music/ShreyaGhosal/Gaaye Jaa - Female (Brothers)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (82).jpeg",
+            "name": "Gaaye Jaa",
+            "artistName": "Female (Brothers)"
+        },
+    "song118":
+        {
+            "isActive": false,
+            "id": 118,
+            "url": "/music/ShreyaGhosal/Hasi - Female (Hamari Adhuri Kahani)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (83).jpeg",
+            "name": "Hasi",
+            "artistName": "Hamari Adhuri Kahani"
+        },
+    "song119":
+        {
+            "isActive": false,
+            "id": 119,
+            "url": "/music/ShreyaGhosal/Jeene Laga Hoon (Ramaiya Vastavaiya)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (84).jpeg",
+            "name": "Jeene Laga Hoon",
+            "artistName": "Ramaiya Vastavaiya"
+        },
+    "song120":
+        {
+            "isActive": false,
+            "id": 120,
+            "url": "/music/ShreyaGhosal/Main Hoon Na - Sonu Nigam_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (85).jpeg",
+            "name": "Main Hoon Na",
+            "artistName": "Sonu Nigam"
+        },
+    "song121":
+        {
+            "isActive": false,
+            "id": 121,
+            "url": "/music/ShreyaGhosal/Main Tenu Samjhawan Ki_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (86).jpeg",
+            "name": "Main Tenu Samjhawan Ki",
+            "artistName": "Shreya Ghosal"
+        },
+    "song122":
+        {
+            "isActive": false,
+            "id": 122,
+            "url": "/music/ShreyaGhosal/Radha (Student Of The Year)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (87).jpeg",
+            "name": "Radha",
+            "artistName": "Student Of The Year"
+        },
+    "song123":
+        {
+            "isActive": false,
+            "id": 123,
+            "url": "/music/ShreyaGhosal/Rang Jo Lagyo (Ramaiya Vastavaiya)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (88).jpeg",
+            "name": "Rang Jo Lagyo",
+            "artistName": "Ramaiya Vastavaiya"
+        },
+    "song124":
+        {
+            "isActive": false,
+            "id": 124,
+            "url": "/music/ShreyaGhosal/Saans (Jab Tak Hai Jaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (89).jpeg",
+            "name": "Saans",
+            "artistName": "Jab Tak Hai Jaan"
+        },
+    "song125":
+        {
+            "isActive": false,
+            "id": 125,
+            "url": "/music/ShreyaGhosal/Sunn Raha Hai - Female (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (90).jpeg",
+            "name": "Sunn Raha Hai",
+            "artistName": "Female (Aashiqui 2)"
+        },
+    "song126":
+        {
+            "isActive": false,
+            "id": 126,
+            "url": "/music/ShreyaGhosal/Tu Hath Mein Hath Jo De Gaya_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (91).jpeg",
+            "name": "Tu Hath Mein Hath Jo De Gaya",
+            "artistName": "Shreya Ghosal"
+        },
+    "song127":
+        {
+            "isActive": false,
+            "id": 127,
+            "url": "/music/ShreyaGhosal/Tumhe Jo Maine Dekha (Main Hoon Na)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (92).jpeg",
+            "name": "Tumhe Jo Maine Dekha",
+            "artistName": "Main Hoon Na"
+        },
+        "song128":
+        {
+            "isActive": false,
+            "id": 128,
+            "url": "/music/ZackKnight/01 - Zack Knight - Your Name - Tujhe Bhula Diya (128 Kbps) - DownloadMing.SE.mp3",
+            "imageUrl": "image/images - 2024-04-13T232942.425.jpeg",
+            "name": "Tujhe Bhula Diya",
+            "artistName": "Zack Knight"
+        },
+    "song129":
+        {
+            "isActive": false,
+            "id": 129,
+            "url": "/music/ZackKnight/Bollywood Medley Pt 10(PaglaSongs).mp3",
+            "imageUrl": "image/images (100).jpeg",
+            "name": "Bollywood Medley Pt 10",
+            "artistName": "Zack Knight"
+        },
+    "song130":
+        {
+            "isActive": false,
+            "id": 130,
+            "url": "/music/ZackKnight/Bom Diggy Diggy(PaglaSongs).mp3",
+            "imageUrl": "image/images (99).jpeg",
+            "name": "Bom Diggy Diggy",
+            "artistName": "Zack Knight"
+        },
+    "song131":
+        {
+            "isActive": false,
+            "id": 131,
+            "url": "/music/ZackKnight/Dheere - (Raag.Fm).mp3",
+            "imageUrl": "image/images (98).jpeg",
+            "name": "Dheere Dheere se meri Zindgi",
+            "artistName": "Zack Knight"
+        },
+    "song132":
+        {
+            "isActive": false,
+            "id": 132,
+            "url": "/music/ZackKnight/Kahani Suno - Zack Knight_192(PaglaSongs).mp3",
+            "imageUrl": "image/images (97).jpeg",
+            "name": "Kahani Suno",
+            "artistName": "Zack Knight"
+        },
+    "song133":
+        {
+            "isActive": false,
+            "id": 133,
+            "url": "/music/ZackKnight/Mere Dil Di Gali De Vich Aaja(PaglaSongs).mp3",
+            "imageUrl": "image/images (93).jpeg",
+            "name": "Mere Dil Di Gali De Vich Aaja",
+            "artistName": "Zack Knight"
+        },
+    "song134":
+        {
+            "isActive": false,
+            "id": 134,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 1_RZtn2U8lUiQ.mp3",
+            "imageUrl": "image/images (94).jpeg",
+            "name": "Bollywood Medley Pt 1",
+            "artistName": "Zack Knight"
+        },
+    "song135":
+        {
+            "isActive": false,
+            "id": 135,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 3_J4DRdZdc858.mp3",
+            "imageUrl": "image/images (95).jpeg",
+            "name": "Bollywood Medley Pt 3",
+            "artistName": "Zack Knight"
+        },
+    "song136":
+        {
+            "isActive": false,
+            "id": 136,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 6_-NCqZ4MvbWI.mp3",
+            "imageUrl": "image/images (96).jpeg",
+            "name": "Bollywood Medley Pt 6",
+            "artistName": "Zack Knight"
+        },
+        "song137":
+        {
+            "isActive": false,
+            "id": 137,
+            "url": "/music/English/And I Was Running Far Away(PaglaSongs).mp3",
+            "imageUrl": "image/Aurora_-_Runaway.png",
+            "name": "Runaway",
+            "artistName": "Aurora"
+        },
+    "song138":
+        {
+            "isActive": false,
+            "id": 138,
+            "url": "/music/English/Bilionera Otilia 128 Kbps.mp3",
+            "imageUrl": "image/800x800cc.jpg",
+            "name": "Bilionera",
+            "artistName": "Otilia"
+        },
+    "song139":
+        {
+            "isActive": false,
+            "id": 139,
+            "url": "/music/English/Calm Down Calm Down(PaglaSongs).mp3",
+            "imageUrl": "image/images - 2024-04-13T233058.368.jpeg",
+            "name": "Calm Down",
+            "artistName": "Rema and Salena Gomez"
+        },
+    "song140":
+        {
+            "isActive": false,
+            "id": 140,
+            "url": "/music/English/Cant Forget You - Arjun.mp3",
+            "imageUrl": "image/images - 2024-04-13T233119.514.jpeg",
+            "name": "Cant Forget You",
+            "artistName": "Arjun"
+        },
+    "song141":
+        {
+            "isActive": false,
+            "id": 141,
+            "url": "/music/English/Friends(PagalWorld).mp3",
+            "imageUrl": "image/Marshmello_and_Anne-Marie_Friends.jpg",
+            "name": "Friends",
+            "artistName": "Annie marie"
+        },
+    "song142":
+        {
+            "isActive": false,
+            "id": 142,
+            "url": "/music/English/Hey Mama-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images - 2024-04-13T233232.073.jpeg",
+            "name": "Hey Mama",
+            "artistName": "English hits"
+        },
+    "song143":
+        {
+            "isActive": false,
+            "id": 143,
+            "url": "/music/English/Jalebi Baby-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/Jalebi_Baby.jpeg",
+            "name": "Jalebi Baby",
+            "artistName": "English hits"
+        },
+    "song144":
+        {
+            "isActive": false,
+            "id": 144,
+            "url": "/music/English/Love Nwantiti(PaglaSongs).mp3",
+            "imageUrl": "image/images - 2024-04-13T233307.035.jpeg",
+            "name": "Love Nwantiti",
+            "artistName": "English hits"
+        },
+    "song145":
+        {
+            "isActive": false,
+            "id": 145,
+            "url": "/music/English/Perfect.mp3",
+            "imageUrl": "image/images - 2024-04-13T233330.148.jpeg",
+            "name": "Perfect",
+            "artistName": "Ed shreen"
+        },
+    "song146":
+        {
+            "isActive": false,
+            "id": 146,
+            "url": "/music/English/Ride It (Hindi Version)-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images - 2024-04-13T233343.191.jpeg",
+            "name": "Ride It",
+            "artistName": "Jay sean"
+        },
+    "song147":
+        {
+            "isActive": false,
+            "id": 147,
+            "url": "/music/English/Safari Serena 128 Kbps.mp3",
+            "imageUrl": "image/images - 2024-04-13T233400.568.jpeg",
+            "name": "Safari",
+            "artistName": "Serena"
+        },
+    "song148":
+        {
+            "isActive": false,
+            "id": 148,
+            "url": "/music/English/Senorita-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images - 2024-04-13T233439.685.jpeg",
+            "name": "Senorita",
+            "artistName": "Shawn mendes and Camilia celabo"
+        },
+    "song149":
+        {
+            "isActive": false,
+            "id": 149,
+            "url": "/music/English/Sugar n Brownies - DHARIA 320(PagalWorld).mp3",
+            "imageUrl": "image/images - 2024-04-13T233452.972.jpeg",
+            "name": "Sugar n Brownies",
+            "artistName": "DHARIA"
+        },
+        "song150":
+        {
+            "isActive": false,
+            "id": 150,
+            "url": "/music/Romantic/Aaj mere piya ghar aayenge lyrics _ Kailash kher_t8jhllhpdnw.mp3",
+            "imageUrl": "image/images - 2024-04-13T233619.060.jpeg",
+            "name": "Aaj mere piya ghar aayenge",
+            "artistName": "Kailash kher"
+        },
+    "song151":
+        {
+            "isActive": false,
+            "id": 151,
+            "url": "/music/Romantic/Aaj Se Teri - Lyrical _ Padman _ Akshay Kumar & Radhika Apte _ Arijit Singh _ Amit Trivedi_NFsEqOBG51M.mp3",
+            "imageUrl": "image/images - 2024-04-13T233643.427.jpeg",
+            "name": "Aaj Se Teri",
+            "artistName": "Padman _ Akshay Kumar & Radhika Apte _ Arijit Singh _ Amit Trivedi"
+        },
+    "song152":
+        {
+            "isActive": false,
+            "id": 152,
+            "url": "/music/Romantic/Dil Mera Chahe (Full Song) _ Nafe Khan _ Sumi _ Manish _ Hindi Song 2017 _ Analog Records_5GGXsIdXdiE.mp3",
+            "imageUrl": "image/images - 2024-04-13T233701.869.jpeg",
+            "name": "Dil Mera Chahe",
+            "artistName": "Romantic Hits"
+        },
+    "song153":
+        {
+            "isActive": false,
+            "id": 153,
+            "url": "/music/Romantic/Duniya _ Surkhi Bindi _ Gurnam Bhullar _ Sargun Mehta _ 30 Aug_UeScr4YI5pk.mp3",
+            "imageUrl": "image/images - 2024-04-13T233750.880.jpeg",
+            "name": "Duniya",
+            "artistName": "Surkhi Bindi"
+        },
+    "song154":
+        {
+            "isActive": false,
+            "id": 154,
+            "url": "/music/Romantic/Hamdard - Ek Villain ( PagalWorld.com ).mp3",
+            "imageUrl": "image/images - 2024-04-13T233843.694.jpeg",
+            "name": "Hamdard",
+            "artistName": "Ek Villain"
+        },
+    "song155":
+        {
+            "isActive": false,
+            "id": 155,
+            "url": "/music/Romantic/Hare Hare (Hum to dil se hare) - Lofi Song [Slowed & Reverb] _ ShariqueKhan _ Nic Lofi_2AdnSxImZdE.mp3",
+            "imageUrl": "image/images - 2024-04-13T233811.399.jpeg",
+            "name": "Hare Hare (Hum to dil se hare)",
+            "artistName": "Lofi Song"
+        },
+    "song156":
+        {
+            "isActive": false,
+            "id": 156,
+            "url": "/music/Romantic/Jodaa (Official Video) Jatinder Shah, Afsana Khan _ Mouni Roy, Aly Goni _ Maninder Kailey_uzl8Fooi_LE.mp3",
+            "imageUrl": "image/images - 2024-04-13T233912.676.jpeg",
+            "name": "Jodaa",
+            "artistName": "Jatinder Shah, Afsana Khan _ Mouni Roy"
+        },
+    "song157":
+        {
+            "isActive": false,
+            "id": 157,
+            "url": "/music/Romantic/Khuda Bhi (Mohit Chauhan) Ek Paheli Leela 190Kbps.mp3",
+            "imageUrl": "image/images - 2024-04-13T233935.679.jpeg",
+            "name": "Khuda Bhi",
+            "artistName": "(Mohit Chauhan) Ek Paheli Leela"
+        },
+    "song158":
+        {
+            "isActive": false,
+            "id": 158,
+            "url": "/music/Romantic/Kabhi Jo Baadal Barse - Jackpot (PagalWorld.com) (2).mp3",
+            "imageUrl": "image/images - 2024-04-13T234025.404.jpeg",
+            "name": "Kabhi Jo Baadal Barse",
+            "artistName": "Jackpot"
+        },
+    "song159":
+        {
+            "isActive": false,
+            "id": 159,
+            "url": "/music/Romantic/Kali Kali Zulfon Ke - Madhur Sharma _ Ustad Nusrat Fateh Ali Khan _ @PearlRecords_o-7b6ctrQX0.mp3",
+            "imageUrl": "image/Kali-Kali-Zulfon-Ke-Hindi-2021-20230707220025-500x500 (1).jpg",
+            "name": "Kali Kali Zulfon Ke",
+            "artistName": "Madhur Sharma"
+        },
+    "song160":
+        {
+            "isActive": false,
+            "id": 160,
+            "url": "/music/Romantic/KAUN TUJHE Full Video _ M.S. DHONI -THE UNTOLD STORY _Amaal Mallik Palak_Sushant Singh Disha Patani_atVof3pjT-I.mp3",
+            "imageUrl": "image/Kaun_Tujhe_MS_Dhoni_Cover.jpg",
+            "name": "KAUN TUJHE ",
+            "artistName": "M.S. DHONI -THE UNTOLD STORY _Amaal Mallik"
+        },
+    "song161":
+        {
+            "isActive": false,
+            "id": 161,
+            "url": "/music/Romantic/Pehle Bhi Main_192(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images - 2024-04-13T234150.243.jpeg",
+            "name": "Pehle Bhi Main",
+            "artistName": "Vishal mishra - Animal"
+        },
+    "song162":
+        {
+            "isActive": false,
+            "id": 162,
+            "url": "/music/Romantic/'Mere Nishan' Full Audio Song by Darshan Raval_GG2q368Mr9g.mp3",
+            "imageUrl": "image/images - 2024-04-13T234213.320.jpeg",
+            "name": "Mere Nishan",
+            "artistName": "Darshan Raval"
+        },
+    "song163":
+        {
+            "isActive": false,
+            "id": 163,
+            "url": "/music/Romantic/Na Kajre Ki Dhar _ 4K Song _ Mohra _ Suniel Shetty _ Pankaj Udhas _ Sadhana Sargam _ Poonam Jhawer_gcceSjNmQdE.mp3",
+            "imageUrl": "image/images - 2024-04-13T234240.363.jpeg",
+            "name": "Na Kajre Ki Dhar",
+            "artistName": "Mohra_Suniel Shetty_Pankaj Udhas"
+        },
+    "song164":
+        {
+            "isActive": false,
+            "id": 164,
+            "url": "/music/Romantic/Pankaj Udhas - Chandi Jaisa Rang_G4NAKKy5k0g.mp3",
+            "imageUrl": "image/images - 2024-04-13T234308.243.jpeg",
+            "name": "Chandi Jaisa Rang",
+            "artistName": "Pankaj Udhas"
+        },
+    "song165":
+        {
+            "isActive": false,
+            "id": 165,
+            "url": "/music/Romantic/Saiyyan - Kailash Kher_ Paresh Kamath_ Naresh Kamath _ Jhoomo Re_TuUVVKVdZm4.mp3",
+            "imageUrl": "image/images - 2024-04-13T234331.812.jpeg",
+            "name": "Saiyyan",
+            "artistName": "Kailash Kher"
+        },
+    "song166":
+        {
+            "isActive": false,
+            "id": 166,
+            "url": "/music/Romantic/Thoda Thoda Pyaar _ Sidharth Malhotra & Neha Sharma _ Stebin Ben, Nilesh Ahuja, Kumaar _ Lyrical_BHlCNUyu5EU.mp3",
+            "imageUrl": "image/Thoda-Thoda-Pyaar-Hindi-2021-20210212084501-500x500.jpg",
+            "name": "Thoda Thoda Pyaar",
+            "artistName": "Stebin Ben"
+        },
+    "song167":
+        {
+            "isActive": false,
+            "id": 167,
+            "url": "/music/Romantic/Zihaal E Miskin (Slowed Reverb)_192(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/Zihaal-e-Miskin-Hindi-2023-20230523053359-500x500.jpg",
+            "name": "Zihaal-E-Miskin",
+            "artistName": "(Slowed Reverb)-Vishal mishra"
+        },
+    "song168":
+        {
+            "isActive": false,
+            "id": 168,
+            "url": "/music/Romantic/Tujhe dekhe Bina chain kabhi bhi nahi aata lyric video _ Tu chalti thi jab aise lyric video _ Sparky_CAWCVcJL30E.mp3",
+            "imageUrl": "image/images - 2024-04-13T234446.826.jpeg",
+            "name": "Tujhe dekhe Bina chain kabhi bhi nahi aata",
+            "artistName": "Romantic Hits"
+        }
+}

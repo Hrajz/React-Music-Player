@@ -1,0 +1,30 @@
+.subNavigation{
+    /* background-color: yellow; */
+    margin: 0  0 15px 0;
+    /* border: 2px solid green; */
+    /* padding: 10px 0; */
+    display: flex;
+}
+.subNavigation li{
+    background-color: rgba(0, 0, 0, 0.116);
+    border-bottom: 5px solid rgba(0, 0, 0, 0.323);
+    border-right: 3px solid rgba(0, 0, 0, 0.323);
+    width: 9%;
+    font-size: 0.8vw;
+    text-align: center;
+    aspect-ratio: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 5px 15px;
+    border-radius: 20%;
+    color: rgba(0, 0, 0, 0.777);
+    cursor: pointer;
+}
+@media (max-width: 1000px){
+    .subNavigation li{
+        width: 15%;
+        font-size: 1.8vw;
+    }
+  }

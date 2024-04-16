@@ -1,0 +1,211 @@
+.container{
+    /* border: 1px solid gold; */
+    position: relative;
+    left: 240px;
+    top: 100px;
+    width: 76.9%;
+    margin-bottom: 20px;
+    
+}
+h4{
+    font-size: 1.3333333333rem!important;
+    font-weight: normal;
+    margin: 7.5px;
+    margin-left: 30px;
+    margin-bottom: 0;
+    color: #3e3e3e;
+    cursor: pointer;
+    
+}
+.songs{
+    -webkit-overflow-scrolling: smooth;
+    /* border: 1px solid gold; */
+    margin: 2px;
+    padding: 15px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-row-gap: 6.5px;
+    grid-template-rows: auto auto;
+    grid-template-columns:  10.95vw 10.95vw 10.95vw 10.95vw 10.95vw 10.95vw 10.95vw ;
+    overflow: hidden;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+.sizeFix{
+    grid-template-rows: auto;
+}
+.songs::-webkit-scrollbar {
+    display: none;
+}
+.songitem{
+   /* display: inline-block; */
+   /* padding: 8px; */
+   /* margin: 15px; */
+   /* width: 140px; */
+}
+.songbox{
+    /* border: 2px solid gold; */
+    height: auto;
+    width: 9.35vw;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+.songimage{
+    width: 9.35vw;
+    aspect-ratio: 1;
+    border-radius: 5.5px;
+    /* border: 3px solid rgba(0, 0, 0, 0.203); */
+    transition: 0.1s ease;
+    display: block;
+}
+.round{
+    border-radius: 50%;
+    border: 10px solid rgba(0, 0, 0, 0.203);
+}
+.border{
+    border-radius: 8px;
+}
+.updatedCss{
+    display: flex;
+    flex-wrap: wrap;
+}
+.increaseSize{
+    width: 10vw;
+    border: none;
+}
+.margin{
+    margin: 15px;
+}
+/* .songbox:hover{
+    
+} */
+.songimage:hover{
+    filter: brightness(80%);
+    transform: scale(1.15);
+}
+.songitem p{
+    width: 9vw;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 1.1px;
+    font-size: .8666666667rem;
+    font-weight: 100;
+    color: #3e3e3e;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+.songNameSize{
+    width:70%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+}
+@media (max-width: 1000px){
+  .songs{
+        grid-template-columns: 15.7vw 15.7vw 15.7vw 15.7vw 15.7vw ;
+  }
+  .songbox{
+    width: 14vw;
+  }
+  .songimage{
+    width: 14vw;
+}
+.songitem{
+    margin: 0 9px;
+    width: 14vw;
+}
+.songitem p{
+    width: 12vw;
+}
+.container{
+    width: 74.9vw;
+    left: 230px;
+}
+.updatedCss{
+   margin-top: 10px;
+}
+.increaseSize{
+    margin-top: 10px;
+}
+
+}
+@media (max-width: 800px){
+    .container{
+        width: 94vw;
+        left: 0;
+        padding-left: 3%;
+    }
+    .increaseSize{
+        margin-top: 10px;
+        width: 20vw;
+    }
+}
+@media (max-width: 600px){
+    .songs{
+        grid-template-columns: 25vw 25vw 25vw;
+  }
+  .songbox{
+    width: 22vw;
+  }
+  .songimage{
+    width: 22vw;
+}
+.songitem{
+    margin: 0 9px;
+    width: 22vw;
+}
+.songitem p{
+    width: 19vw;
+}
+.updatedCss{
+   margin-top: 10px;
+}
+.increaseSize{
+    margin-top: 10px;
+    width: 40vw;
+}
+.container{
+    width: 95vw;
+    left: 0;
+    padding-left: 15px;
+}
+}
+@media (max-width: 490px){
+    .songs{
+        grid-template-columns: 30vw 30vw 30vw;
+  }
+  .songbox{
+    width: 28vw;
+  }
+  .songimage{
+    width: 28vw;
+}
+.songitem{
+    margin: 5px 9px;
+    width: 28vw;
+}
+.songitem p{
+    width: 26vw;
+}
+.increaseSize{
+    margin-top: 5px;
+    width: 40vw;
+}
+.container{
+    width: 96vw;
+    left: 0;
+    padding-left: 2%;
+}
+.text{
+    margin: 3px 0 4px 0;
+}
+}

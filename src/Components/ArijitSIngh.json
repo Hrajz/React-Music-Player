@@ -1,0 +1,119 @@
+{
+    "song89":
+        {
+            "isActive": false,
+            "id": 89,
+            "url": "/music/ArijitSingh/Milne Hai Mujhse Aayi (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/Aashiqui-2-Hindi-2013-500x500.jpg",
+            "name": "Milne Hai Mujhse Aayi",
+            "artistName": "Aashiqui 2"
+        },
+    "song90":
+        {
+            "isActive": false,
+            "id": 90,
+            "url": "/music/ArijitSingh/Dil Cheez Tujhe Dedi - Airlift (Arijit Singh n Ankit Tiwari) 190Kbps.mp3",
+            "imageUrl": "image/images (69).jpeg",
+            "name": "Dil Cheez Tujhe Dedi",
+            "artistName": "Airlift (Arijit Singh and Ankit Tiwari)"
+        },
+    "song91":
+        {
+            "isActive": false,
+            "id": 91,
+            "url": "/music/ArijitSingh/Duaa_192(PagalWorld).mp3",
+            "imageUrl": "image/images (70).jpeg",
+            "name": "Dua - Arijit Singh",
+            "artistName": " MTV Unplugged"
+        },
+    "song92":
+        {
+            "isActive": false,
+            "id": 92,
+            "url": "/music/ArijitSingh/Raatan Lambiyan_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (68).jpeg",
+            "name": "Raatan Lambiyan",
+            "artistName": "Shershah"
+        },
+    "song93":
+        {
+            "isActive": false,
+            "id": 93,
+            "url": "/music/ArijitSingh/Tum Hi Ho (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (71).jpeg",
+            "name": "Tum hi ho",
+            "artistName": "Aashiqui 2"
+        },
+    "song94":
+        {
+            "isActive": false,
+            "id": 94,
+            "url": "/music/ArijitSingh/Khamoshiyan [Arijit Singh] Full Title Song.mp3",
+            "imageUrl": "image/images (72).jpeg",
+            "name": "Khamoshiyan",
+            "artistName": "[Arijit Singh] Full Title Song"
+        },
+    "song95":
+        {
+            "isActive": false,
+            "id": 95,
+            "url": "/music/ArijitSingh/Main Dhoondne Ko Zamaane Mein (Heartless) - Arijit Singh.mp3",
+            "imageUrl": "image/Heartless-2014-500x500.jpg",
+            "name": "Main Dhoondne Ko Zamaane Mein",
+            "artistName": "(Heartless) - Arijit Singh"
+        },
+    "song96":
+        {
+            "isActive": false,
+            "id": 96,
+            "url": "/music/ArijitSingh/Mareez - E - Ishq (Arijit Singh) - 190Kbps.mp3",
+            "imageUrl": "image/images (75).jpeg",
+            "name": "Mareez - E - Ishq ",
+            "artistName": "Arijit Singh"
+        },
+    "song97":
+        {
+            "isActive": false,
+            "id": 97,
+            "url": "/music/ArijitSingh/Saanson Ko (Zid) -190Kbps [PagalWorld.com].mp3",
+            "imageUrl": "image/images (73).jpeg",
+            "name": "Saanson Ko",
+            "artistName": "Arijit Singh - ZID"
+        },
+    "song98":
+        {
+            "isActive": false,
+            "id": 98,
+            "url": "/music/ArijitSingh/Sukoon Mila (Mary Kom) Arijit Singh [PagalWorld.com].mp3",
+            "imageUrl": "image/1200x1200bf-60.jpg",
+            "name": "Sukoon Mila",
+            "artistName": "(Mary Kom) Arijit Singh"
+        },
+    "song99":
+        {
+            "isActive": false,
+            "id": 99,
+            "url": "/music/ArijitSingh/Sun Le Zara (Arijit Singh) Singham Returns 190Kbps.mp3",
+            "imageUrl": "image/images (77).jpeg",
+            "name": "Sun Le Zara",
+            "artistName": "(Arijit Singh) Singham Returns"
+        },
+    "song100":
+        {
+            "isActive": false,
+            "id": 100,
+            "url": "/music/ArijitSingh/Tu Hi Hai Aashiqui (Dishkiyaoon) Arijit Singh (webrip).mp3",
+            "imageUrl": "image/images (78).jpeg",
+            "name": "Tu Hi Hai Aashiqui",
+            "artistName": "(Dishkiyaoon) Arijit Singh"
+        },
+    "song101":
+        {
+            "isActive": false,
+            "id": 101,
+            "url": "/music/ArijitSingh/Uska Hi Banana (1).mp3",
+            "imageUrl": "image/images (79).jpeg",
+            "name": "Uska Hi Banana",
+            "artistName": "Arijit singh"
+        }
+}

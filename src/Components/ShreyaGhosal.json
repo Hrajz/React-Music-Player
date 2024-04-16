@@ -1,0 +1,119 @@
+{
+    "song115":
+        {
+            "isActive": false,
+            "id": 115,
+            "url": "/music/ShreyaGhosal/Chaar Kadam (PK)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (80).jpeg",
+            "name": "Chaar Kadam",
+            "artistName": "Pk"
+        },
+    "song116":
+        {
+            "isActive": false,
+            "id": 116,
+            "url": "/music/ShreyaGhosal/Chamak Challo Chel Chabeli (Rowdy Rathore)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (81).jpeg",
+            "name": "Chamak Challo Chel Chabeli",
+            "artistName": "Rowdy Rathore"
+        },
+    "song117":
+        {
+            "isActive": false,
+            "id": 117,
+            "url": "/music/ShreyaGhosal/Gaaye Jaa - Female (Brothers)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (82).jpeg",
+            "name": "Gaaye Jaa",
+            "artistName": "Female (Brothers)"
+        },
+    "song118":
+        {
+            "isActive": false,
+            "id": 118,
+            "url": "/music/ShreyaGhosal/Hasi - Female (Hamari Adhuri Kahani)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (83).jpeg",
+            "name": "Hasi",
+            "artistName": "Hamari Adhuri Kahani"
+        },
+    "song119":
+        {
+            "isActive": false,
+            "id": 119,
+            "url": "/music/ShreyaGhosal/Jeene Laga Hoon (Ramaiya Vastavaiya)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (84).jpeg",
+            "name": "Jeene Laga Hoon",
+            "artistName": "Ramaiya Vastavaiya"
+        },
+    "song120":
+        {
+            "isActive": false,
+            "id": 120,
+            "url": "/music/ShreyaGhosal/Main Hoon Na - Sonu Nigam_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (85).jpeg",
+            "name": "Main Hoon Na",
+            "artistName": "Sonu Nigam"
+        },
+    "song121":
+        {
+            "isActive": false,
+            "id": 121,
+            "url": "/music/ShreyaGhosal/Main Tenu Samjhawan Ki_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (86).jpeg",
+            "name": "Main Tenu Samjhawan Ki",
+            "artistName": "Shreya Ghosal"
+        },
+    "song122":
+        {
+            "isActive": false,
+            "id": 122,
+            "url": "/music/ShreyaGhosal/Radha (Student Of The Year)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (87).jpeg",
+            "name": "Radha",
+            "artistName": "Student Of The Year"
+        },
+    "song123":
+        {
+            "isActive": false,
+            "id": 123,
+            "url": "/music/ShreyaGhosal/Rang Jo Lagyo (Ramaiya Vastavaiya)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (88).jpeg",
+            "name": "Rang Jo Lagyo",
+            "artistName": "Ramaiya Vastavaiya"
+        },
+    "song124":
+        {
+            "isActive": false,
+            "id": 124,
+            "url": "/music/ShreyaGhosal/Saans (Jab Tak Hai Jaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (89).jpeg",
+            "name": "Saans",
+            "artistName": "Jab Tak Hai Jaan"
+        },
+    "song125":
+        {
+            "isActive": false,
+            "id": 125,
+            "url": "/music/ShreyaGhosal/Sunn Raha Hai - Female (Aashiqui 2)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (90).jpeg",
+            "name": "Sunn Raha Hai",
+            "artistName": "Female (Aashiqui 2)"
+        },
+    "song126":
+        {
+            "isActive": false,
+            "id": 126,
+            "url": "/music/ShreyaGhosal/Tu Hath Mein Hath Jo De Gaya_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (91).jpeg",
+            "name": "Tu Hath Mein Hath Jo De Gaya",
+            "artistName": "Shreya Ghosal"
+        },
+    "song127":
+        {
+            "isActive": false,
+            "id": 127,
+            "url": "/music/ShreyaGhosal/Tumhe Jo Maine Dekha (Main Hoon Na)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/images (92).jpeg",
+            "name": "Tumhe Jo Maine Dekha",
+            "artistName": "Main Hoon Na"
+        }
+}

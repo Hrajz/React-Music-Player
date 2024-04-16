@@ -1,0 +1,68 @@
+:root{
+  text-decoration: none;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  font-family: Lato,sans-serif;
+  font-size: .9375em;
+  /* line-height: 1.466666676; */
+  /* font-weight: bold; */
+}
+:root,body{
+  --primary-background: rgb(245, 244, 244);
+  background-image: linear-gradient(to right, #e9e6f2, #e9e4f0);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* font-weight: 600; */
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+/*----------------------router styling -------------------------- */
+
+.common{
+  position: relative;
+  left: 240px;
+  top: 100px;
+  width: 76.9%;
+  min-height: 80vh;
+  height: fit-content;
+  margin-bottom: 20px;
+  /* border: 2px solid rgb(59, 52, 8); */
+}
+.favSong{
+  width: 16vw;
+  margin-bottom: 15px;
+}
+.favSongimage{
+  width: 14vw;
+}
+@media (max-width: 800px){
+  .common{
+    left: 0px;
+    width: 100%;
+    padding: 0 5px;
+  }
+  .favSong{
+    width: 28vw;
+    margin-bottom: 10px;
+  }
+  .favSongimage{
+    width: 28vw;
+  }
+}
+@media (max-width: 500px){
+  .favSong{
+    width: 40vw;
+  }
+  .favSongimage{
+    width: 40vw;
+  }
+  .common{
+    padding: 15px 5px
+  }
+}

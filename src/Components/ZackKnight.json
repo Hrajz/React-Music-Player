@@ -1,0 +1,83 @@
+{
+    "song128":
+        {
+            "isActive": false,
+            "id": 128,
+            "url": "/music/ZackKnight/01 - Zack Knight - Your Name - Tujhe Bhula Diya (128 Kbps) - DownloadMing.SE.mp3",
+            "imageUrl": "image/images - 2024-04-13T232942.425.jpeg",
+            "name": "Tujhe Bhula Diya",
+            "artistName": "Zack Knight"
+        },
+    "song129":
+        {
+            "isActive": false,
+            "id": 129,
+            "url": "/music/ZackKnight/Bollywood Medley Pt 10(PaglaSongs).mp3",
+            "imageUrl": "image/images (100).jpeg",
+            "name": "Bollywood Medley Pt 10",
+            "artistName": "Zack Knight"
+        },
+    "song130":
+        {
+            "isActive": false,
+            "id": 130,
+            "url": "/music/ZackKnight/Bom Diggy Diggy(PaglaSongs).mp3",
+            "imageUrl": "image/images (99).jpeg",
+            "name": "Bom Diggy Diggy",
+            "artistName": "Zack Knight"
+        },
+    "song131":
+        {
+            "isActive": false,
+            "id": 131,
+            "url": "/music/ZackKnight/Dheere - (Raag.Fm).mp3",
+            "imageUrl": "image/images (98).jpeg",
+            "name": "Dheere Dheere se meri Zindgi",
+            "artistName": "Zack Knight"
+        },
+    "song132":
+        {
+            "isActive": false,
+            "id": 132,
+            "url": "/music/ZackKnight/Kahani Suno - Zack Knight_192(PaglaSongs).mp3",
+            "imageUrl": "image/images (97).jpeg",
+            "name": "Kahani Suno",
+            "artistName": "Zack Knight"
+        },
+    "song133":
+        {
+            "isActive": false,
+            "id": 133,
+            "url": "/music/ZackKnight/Mere Dil Di Gali De Vich Aaja(PaglaSongs).mp3",
+            "imageUrl": "image/images (93).jpeg",
+            "name": "Mere Dil Di Gali De Vich Aaja",
+            "artistName": "Zack Knight"
+        },
+    "song134":
+        {
+            "isActive": false,
+            "id": 134,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 1_RZtn2U8lUiQ.mp3",
+            "imageUrl": "image/images (94).jpeg",
+            "name": "Bollywood Medley Pt 1",
+            "artistName": "Zack Knight"
+        },
+    "song135":
+        {
+            "isActive": false,
+            "id": 135,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 3_J4DRdZdc858.mp3",
+            "imageUrl": "image/images (95).jpeg",
+            "name": "Bollywood Medley Pt 3",
+            "artistName": "Zack Knight"
+        },
+    "song136":
+        {
+            "isActive": false,
+            "id": 136,
+            "url": "/music/ZackKnight/Zack Knight - Bollywood Medley Pt 6_-NCqZ4MvbWI.mp3",
+            "imageUrl": "image/images (96).jpeg",
+            "name": "Bollywood Medley Pt 6",
+            "artistName": "Zack Knight"
+        }
+}

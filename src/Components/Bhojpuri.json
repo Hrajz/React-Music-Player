@@ -1,0 +1,65 @@
+{
+    "song69":
+        {
+            "isActive": false,
+            "id": 69,
+            "url": "/music/Bhojpuri/Choliya-Ke-Hook-Raja-Ji(PagalWorlld.Com).mp3",
+            "imageUrl": "image/images (52).jpeg",
+            "name": "Choliya-Ke-Hook-Raja-Ji",
+            "artistName": "BHojpuri Hits"
+        },
+    "song70":
+        {
+            "isActive": false,
+            "id": 70,
+            "url": "/music/Bhojpuri/Dilwa ke Chor - Swati Mishra [128] Kbps-(PagalWorld.Gay).mp3",
+            "imageUrl": "image/images (53).jpeg",
+            "name": "Dilwa ke Chor",
+            "artistName": "Swati Mishra"
+        },
+    "song71":
+        {
+            "isActive": false,
+            "id": 71,
+            "url": "/music/Bhojpuri/Gulab Jaisan Khilal Badu(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (54).jpeg",
+            "name": "Gulab Jaisan Khilal Badu",
+            "artistName": "BHojpuri Hits"
+        },
+    "song72":
+        {
+            "isActive": false,
+            "id": 72,
+            "url": "/music/Bhojpuri/Makaiya Me Raja Ji - Pawan Singh [128] Kbps-(PagalWorld.Gay).mp3",
+            "imageUrl": "image/images (55).jpeg",
+            "name": "Makaiya Me Raja Ji",
+            "artistName": "Pawan Singh"
+        },
+    "song73":
+        {
+            "isActive": false,
+            "id": 73,
+            "url": "/music/Bhojpuri/Naach Re Patarki 2.0(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (56).jpeg",
+            "name": "Naach Re Patarki 2.0",
+            "artistName": "BHojpuri Hits"
+        },
+    "song74":
+        {
+            "isActive": false,
+            "id": 74,
+            "url": "/music/Bhojpuri/Rajaji Ke Dilwa(PagalWorld.com.cm).mp3",
+            "imageUrl": "image/images (57).jpeg",
+            "name": "Rajaji Ke Dilwa",
+            "artistName": "Bhojpuri Hits"
+        },
+    "song75":
+        {
+            "isActive": false,
+            "id": 75,
+            "url": "/music/Bhojpuri/Tohre Me Base Raja Humro Paranwa Ho(PagalWorld).mp3",
+            "imageUrl": "image/images (58).jpeg",
+            "name": "Tohre Me Base Raja",
+            "artistName": "Swati Mishra"
+        }
+}

@@ -1,0 +1,98 @@
+.sidebar-js{
+    position: fixed;
+    background-image: linear-gradient(to right, #e9e6f2, #e9e4f0);
+    top: 60px;
+    bottom: 0;
+    width: fit-content;
+    z-index: 5;
+    padding: 30px;
+    overflow: hidden;
+    overflow-y: auto;
+    height: fit-content;
+    padding-bottom: 30px;
+    transition: 0.2s ease;
+}
+.sidebar-js p{
+    color: #828DA8;
+    font-size: 12px;
+    margin: 20px 11px;
+    font-weight: bold;
+}
+.browse,.library{
+    list-style: none;
+    color: #3e3e3e;
+    font-size: 15PX;
+    padding: 4.5px 0;
+    margin: 6px 6px 0px 11px;
+    padding-left: 2px;
+    cursor: pointer;
+    font-family: Lato,sans-serif;
+    transition: 0.1s ease;
+    /* font-size: .9375em; */
+}
+.icons-margin{
+    margin-right: 10px;
+    position: relative;
+    top: 2px;
+}
+.browse:hover,.library:hover{
+    color: #fff4f4;
+    background-color: rgb(0, 0, 0,0.6);
+    border-radius: 5px;
+}
+.button{
+    border-radius: 35px;
+    border: 1px solid #2BC5B4;
+    padding: 5px 30px;
+    height: 45px;
+    margin-top: 25px;
+    /* align-items: center; */
+    /* justify-content: center; */
+
+}
+.button p{
+    font-size: 14px;
+    margin: auto;
+    color: #2BC5B4;
+    font-weight: bold;
+}
+.button:hover{
+    border: 1px solid #13a291;
+    color: #0e695e;
+}
+.button:hover p{
+    color: #0e695e;
+}
+.Hamburgericon{
+    position: absolute;
+    top: 75px;
+    left: 20px;
+    z-index: 10;
+    display: none;
+}
+.hide{
+    display: none;
+}
+.sideshow{
+    display: inherit;
+}
+.displayed{
+    width: fit-content;
+    padding: 30px 15px 30px 30px;
+    z-index: 5;
+}
+@media (max-width: 800px){
+    .sidebar-js{
+       width: 0;
+       padding: 0;
+    }
+    .Hamburgericon{
+        display: block;
+    }
+    .displayed{
+        width: fit-content;
+        padding: 30px 15px 30px 30px;
+        z-index: 5;
+    }
+}
+

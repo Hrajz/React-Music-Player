@@ -1,0 +1,164 @@
+{
+    "song1":
+        {
+            "isActive": false,
+            "id": 1,
+            "url": "/music/NewRelease/Aate Rehte Hain-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images.jpeg",
+            "name": "Aate Rehte Hain",
+            "artistName": "B praak"
+        },
+    "song2":
+        {
+            "isActive": false,
+            "id": 2,
+            "url": "/music/NewRelease/Akhiyaan Gulaab (Song)_ Shahid Kapoor, Kriti Sanon  Mitraz  Teri Baaton Mein Aisa Uljha Jiya.mp3",
+            "imageUrl": "image/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500.jpg",
+            "name": "Akhiyaan Gulaab (Song)_ Shahid Kapoor, Kriti Sanon",
+            "artistName": " Teri Baaton Mein Aisa Uljha Jiya"
+        },
+    "song3":
+        {
+            "isActive": false,
+            "id": 3,
+            "url": "/music/NewRelease/Bole Jo Koyal Dhoni-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (1).jpeg",
+            "name": "Bole Jo Koyal",
+            "artistName": "Ms Dhoni"
+        },
+    "song4":
+        {
+            "isActive": false,
+            "id": 4,
+            "url": "/music/NewRelease/Choli Ke Peeche  Crew - Tabu, Kareena Kapoor K, Kriti Sanon, @diljitdosanjh, Ila Arun, Alka Yagnik.mp3",
+            "imageUrl": "image/Choli-Ke-Peeche-From-Crew-Hindi-2024-20240319222308-500x500.jpg",
+            "name": "Choli Ke Peeche  Crew ",
+            "artistName": "Tabu, Kareena Kapoor K, Kriti Sanon, diljitdosanjh, Ila Arun, Alka Yagnik"
+        },
+    "song5":
+        {
+            "isActive": false,
+            "id": 5,
+            "url": "/music/NewRelease/Dunki_ O Maahi (Full Video)  Shah Rukh Khan  Taapsee Pannu  Pritam  Arijit Singh  Irshad Kamil.mp3",
+            "imageUrl": "image/images (3).jpeg",
+            "name": "Dunki_ O Maahi",
+            "artistName": "Shah Rukh Khan  Taapsee Pannu  Pritam  Arijit Singh  Irshad Kamil"
+        },
+    "song6":
+        {
+            "isActive": false,
+            "id": 6,
+            "url": "/music/NewRelease/Heeriye (Official Video) Jasleen Royal ft Arijit Singh Dulquer Salmaan Aditya Sharma Taani Tanvir.mp3",
+            "imageUrl": "image/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-500x500.jpg",
+            "name": "Heeriye",
+            "artistName": "Arijit Singh Dulquer Salmaan Aditya Sharma Taani Tanvir"
+        },
+    "song7":
+        {
+            "isActive": false,
+            "id": 7,
+            "url": "/music/NewRelease/JAWAN_ Chaleya (Hindi)  Shah Rukh Khan  Nayanthara  Atlee  Anirudh  Arijit S, Shilpa R  Kumaar.mp3",
+            "imageUrl": "image/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+            "name": "JAWAN_ Chaleya",
+            "artistName": "Shah Rukh Khan  Nayanthara  Atlee  Anirudh  Arijit S, Shilpa R  Kumaar"
+        },
+    "song8":
+        {
+            "isActive": false,
+            "id": 8,
+            "url": "/music/NewRelease/Jiya Mera-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/11190f3d3da73bcfafdce020ac48c53.png",
+            "name": "Jiya Mera",
+            "artistName": "garvit-Priyansh"
+        },
+    "song9":
+        {
+            "isActive": false,
+            "id": 9,
+            "url": "/music/NewRelease/Kaabil - Stebin Ben-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (4).jpeg",
+            "name": "Kaabil",
+            "artistName": "- Stebin Ben"
+        },
+    "song10":
+        {
+            "isActive": false,
+            "id": 10,
+            "url": "/music/NewRelease/Laa Pila De Sharaab-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (5).jpeg",
+            "name": "Laa Pila De Sharaab",
+            "artistName": "Ankita lokhande and Vicky Jain"
+        },
+    "song11":
+        {
+            "isActive": false,
+            "id": 11,
+            "url": "/music/NewRelease/Naina  Crew  Diljit Dosanjh, Ft. Badshah  Kareena Kapoor Khan, Tabu, Kriti Sanon  Raj Ranjodh.mp3",
+            "imageUrl": "image/images (6).jpeg",
+            "name": "Naina-Crew ",
+            "artistName": "Diljit Dosanjh, Ft. Badshah  Kareena Kapoor Khan, Tabu, Kriti Sanon  Raj Ranjodh "
+        },
+    "song12":
+        {
+            "isActive": false,
+            "id": 12,
+            "url": "/music/NewRelease/New Song 2024_ Rehnuma  New Hindi Song  Sidharth Malhotra  Rakul Preet Singh  Romantic Song.mp3",
+            "imageUrl": "image/images (7).jpeg",
+            "name": "Rehnuma",
+            "artistName": "Sidharth Malhotra  Rakul Preet Singh  Romantic Song"
+        },
+    "song13":
+        {
+            "isActive": false,
+            "id": 13,
+            "url": "/music/NewRelease/Senti Akhiyaan-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/Senti-Akhiyaan-Hindi-2024-20240326054815-500x500.jpg",
+            "name": "Senti Akhiyaan",
+            "artistName": "Ram Sampath and Sonam Mohapatra"
+        },
+    "song14":
+        {
+            "isActive": false,
+            "id": 14,
+            "url": "/music/NewRelease/Teri Baaton Mein Aisa Uljha Jiya (Title Track)_ Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees.mp3",
+            "imageUrl": "image/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500 (1).jpg",
+            "name": "Teri Baaton Mein Aisa Uljha Jiya (Title Track)_ Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees",
+            "artistName": "Shahid Kapoor, Kriti Sanon  Raghav,Tanishk, Asees"
+        },
+    "song15":
+        {
+            "isActive": false,
+            "id": 15,
+            "url": "/music/NewRelease/Tilasmi Bahein-(PagalSongs.Com.IN).mp3",
+            "imageUrl": "image/images (8).jpeg",
+            "name": "Tilasmi Bahein",
+            "artistName": "Sonakshi Sinha"
+        },
+    "song16":
+        {
+            "isActive": false,
+            "id": 16,
+            "url": "/music/NewRelease/Ve Haaniyaan - Official Video  Ravi Dubey & Sargun Mehta  Danny  Avvy Sra  Dreamiyata Music.mp3",
+            "imageUrl": "image/Ve-Haaniyaan-Punjabi-2024-20240212220137-500x500.jpg",
+            "name": "Ve Haaniyaan - Ravi Dubey & Sargun Mehta ",
+            "artistName": "Danny Avvy Sra Dreamiyata Music"
+        },
+    "song17":
+        {
+            "isActive": false,
+            "id": 17,
+            "url": "/music/NewRelease/Yimmy Yimmy - Tayc  Shreya Ghoshal  Jacqueline Fernandez  Rajat N  Rana  Nyadjiko  Anshul Garg.mp3",
+            "imageUrl": "image/Yimmy-Yimmy-Tayc-500-500.jpg",
+            "name": "Yimmy Yimmy - Tayc Jacqueline Fernandez  Rajat N  Rana  Nyadjiko  Anshul Garg",
+            "artistName": "Shreya Ghoshal"
+        },
+    "song18":
+        {
+            "isActive": false,
+            "id": 18,
+            "url": "/music/NewRelease/ZAALIM (Official Music Video)_ Badshah, Nora Fatehi  Payal Dev  Abderafia El Abdioui  Bhushan K.mp3",
+            "imageUrl": "image/images (9).jpeg",
+            "name": "ZAALIM",
+            "artistName": "Badshah, Nora Fatehi  Payal Dev  Abderafia El Abdioui  Bhushan K"
+        }
+}

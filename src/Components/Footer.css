@@ -1,0 +1,36 @@
+.foot,.rights{
+    position: relative;
+    left: 240px;
+    top: 100px;
+    width: 76.9%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    border-top: 1.3px solid #d2c5c5;
+    padding: 20px 0;
+}
+.foot p,.rights p{
+    margin: 2px 10px;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1.4;
+    color: #3e3e3e;
+    cursor: pointer;
+}
+.rights{
+    /* border: 2px solid #621c1c; */
+    margin-bottom: 200px;
+}
+@media (max-width: 800px){
+   .foot,.rights{
+       left: 35px;
+   } 
+   .rights p{
+     margin-bottom: 60px;
+   }
+}
+/* @media (max-width: 600px){
+   .foot,.rights{
+       display: n;
+   }
+} */

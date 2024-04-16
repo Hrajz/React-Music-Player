@@ -1,0 +1,83 @@
+{
+    "song48":
+        {
+            "isActive": false,
+            "id": 48,
+            "url": "/music/Bhakti/Adharam Madhuram (Hindi Version) _ Swasti Mehul _ Hey Krishn Tere Hoth Madhur _ Janmashtami Bhajan_wguWHzMzskY.mp3",
+            "imageUrl": "image/Adharam-Madhuram-Hindi-2022-20220816161810-500x500.jpg",
+            "name": "Adharam Madhuram",
+            "artistName": "Swasti Mehul"
+        },
+    "song49":
+        {
+            "isActive": false,
+            "id": 49,
+            "url": "/music/Bhakti/Hum Katha Sunate Ram Sakal Gun Dhaam Ki_cLXwueeNxe4.mp3",
+            "imageUrl": "image/images (34).jpeg",
+            "name": "Hum Katha Sunate Ram Sakal Gun Dhaam Ki",
+            "artistName": "Ram Bhajan"
+        },
+    "song50":
+        {
+            "isActive": false,
+            "id": 50,
+            "url": "/music/Bhakti/Jai Radhe Jai Radhe_460Th1I28Oc.mp3",
+            "imageUrl": "image/images (35).jpeg",
+            "name": "Jai Radhe Jai Radhe",
+            "artistName": " Jai Radhe Jai Radhe"
+        },
+    "song51":
+        {
+            "isActive": false,
+            "id": 51,
+            "url": "/music/Bhakti/Keejo Kesari Ke Laal _ Jai Shree Ram _ Dj Karan Kahar Dj Dakshraj_cY4nGCw-JxY.mp3",
+            "imageUrl": "image/images (36).jpeg",
+            "name": "Keejo Kesari Ke Laal",
+            "artistName": "Jai Shree Ram _ Dj Karan Kahar Dj Dakshraj"
+        },
+    "song52":
+        {
+            "isActive": false,
+            "id": 52,
+            "url": "/music/Bhakti/Pata Nahi Kis Roop Me Aakar Narayan Mil Jayega __ Swati Mishra __ Official Video_i0P7x5AsP4o.mp3",
+            "imageUrl": "image/images (37).jpeg",
+            "name": "Pata Nahi Kis Roop Me Aakar",
+            "artistName": "Swati Mishra"
+        },
+    "song53":
+        {
+            "isActive": false,
+            "id": 53,
+            "url": "/music/Bhakti/Raam Aayenge __ Swati Mishra Bhajan_wncNcu6jEgs.mp3",
+            "imageUrl": "image/images (38).jpeg",
+            "name": "Ram Aayenge",
+            "artistName": "Swati Mishra"
+        },
+    "song54":
+        {
+            "isActive": false,
+            "id": 54,
+            "url": "/music/Bhakti/Ram Siya Ram (Lyrical) Adipurush _ Prabhas _ Sachet-Parampara,Manoj Muntashir S _Om Raut _ Bhushan K_Tl4bQBfOtbg.mp3",
+            "imageUrl": "image/images (39).jpeg",
+            "name": "Ram Siya Ram",
+            "artistName": "Adipurush"
+        },
+    "song55":
+        {
+            "isActive": false,
+            "id": 55,
+            "url": "/music/Bhakti/Shyama Aan Baso Vrindavan Mein _ Swasti Mehul _ Latest Krishna Bhajan_cJoMfLl1Qjw.mp3",
+            "imageUrl": "image/Shyama-Aan-Baso-Hindi-2022-20220714164649-500x500.jpg",
+            "name": "Shyama Aan Baso Vrindavan Mein",
+            "artistName": "Swasti Mehul"
+        },
+    "song56":
+        {
+            "isActive": false,
+            "id": 56,
+            "url": "/music/Bhakti/Tum Prem Ho - Reprise _ Lyrical Video _ Radha Krishn _ MOhit Lalwani _ Surya Raj Kamal_Feoea8FQTI0.mp3",
+            "imageUrl": "image/images (40).jpeg",
+            "name": "Tum Prem Ho",
+            "artistName": "Radha Krishn _ MOhit Lalwani _ Surya Raj Kamal"
+        }
+}

@@ -1,0 +1,119 @@
+{
+    "song102":
+        {
+            "isActive": false,
+            "id": 102,
+            "url": "/music/JubinNautial/Bewafa Tera Masoom Chehra - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_11_2024-04-14_03-25-45.jpg",
+            "name": "Bewafa Tera Masoom Chehra ",
+            "artistName": "Jubin Nautiyal"
+        },
+    "song103":
+        {
+            "isActive": false,
+            "id": 103,
+            "url": "/music/JubinNautial/Chitthi - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_12_2024-04-14_03-25-45.jpg",
+            "name": "Chitthi",
+            "artistName": "Jubin nautial"
+        },
+    "song104":
+        {
+            "isActive": false,
+            "id": 104,
+            "url": "/music/JubinNautial/Humnava Mere - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_2024-04-14_03-28-39.jpg",
+            "name": "Humnava Mere",
+            "artistName": "Jubin nautial"
+        },
+    "song105":
+        {
+            "isActive": false,
+            "id": 105,
+            "url": "/music/JubinNautial/Kaabil Hoon (Kaabil)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_4_2024-04-14_03-25-45.jpg",
+            "name": "Kaabil Hoon",
+            "artistName": "Jubin nautial"
+        },
+    "song106":
+        {
+            "isActive": false,
+            "id": 106,
+            "url": "/music/JubinNautial/Kabira - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_8_2024-04-14_03-25-45.jpg",
+            "name": "Kabira",
+            "artistName": "Jubin nautial"
+        },
+    "song107":
+        {
+            "isActive": false,
+            "id": 107,
+            "url": "/music/JubinNautial/Lut Gaye (Mumbai Saga)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_3_2024-04-14_03-25-45.jpg",
+            "name": "Lut Gaye ",
+            "artistName": "Mumbai Saga"
+        },
+    "song108":
+        {
+            "isActive": false,
+            "id": 108,
+            "url": "/music/JubinNautial/Manike (Thank God)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_7_2024-04-14_03-25-45.jpg",
+            "name": "Manike",
+            "artistName": "Thank God"
+        },
+    "song109":
+        {
+            "isActive": false,
+            "id": 109,
+            "url": "/music/JubinNautial/Meri Aashiqui - Jubin Nautiyal_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_5_2024-04-14_03-25-45.jpg",
+            "name": "Meri Aashiqui",
+            "artistName": "Jubin Nautiyal"
+        },
+    "song110":
+        {
+            "isActive": false,
+            "id": 110,
+            "url": "/music/JubinNautial/Phir Mulaaqat (Why Cheat India)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_6_2024-04-14_03-25-45.jpg",
+            "name": "Phir Mulaaqat",
+            "artistName": "Why Cheat India"
+        },
+    "song111":
+        {
+            "isActive": false,
+            "id": 111,
+            "url": "/music/JubinNautial/Tujhe Kitna Chahein Aur (Kabir Singh)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_10_2024-04-14_03-25-45.jpg",
+            "name": "Tujhe Kitna Chahein Aur",
+            "artistName": "Kabir Singh"
+        },
+    "song112":
+        {
+            "isActive": false,
+            "id": 112,
+            "url": "/music/JubinNautial/Tum Hi Aana (Marjaavaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_9_2024-04-14_03-25-45.jpg",
+            "name": "Tum Hi Aana",
+            "artistName": "Marjaavaan"
+        },
+    "song113":
+        {
+            "isActive": false,
+            "id": 113,
+            "url": "/music/JubinNautial/Zindagi Kuch Toh Bata - Reprise (Bajrangi Bhaijaan)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_2_2024-04-14_03-25-45.jpg",
+            "name": "Zindagi Kuch Toh Bata",
+            "artistName": "Bajrangi Bhaijaan"
+        },
+    "song114":
+        {
+            "isActive": false,
+            "id": 114,
+            "url": "/music/JubinNautial/Tu Mera Hogaya Hai (Tadap)_128-(PagalWorld.Ink).mp3",
+            "imageUrl": "image/photo_1_2024-04-14_03-25-45.jpg",
+            "name": "Tu Mera Hogaya Hai",
+            "artistName": "Tadap"
+        }
+}
